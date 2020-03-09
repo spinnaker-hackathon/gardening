@@ -11,7 +11,9 @@ This is documentation for Spinnaker Gardening Days #communityHack, a series of o
     * **#gardening-general**   Make general, public conversation. Please use threads for (welcome!) jokes and side convos
     * **#gardening-ineedhelp**   Request help here from experts during the hackathon, or ask setup questions before it starts.
 3. Ask for your organization to "sponsor" your time at the event. [Use this flyer](https://s.armory.io/v1ur0KQQ) to highlight the benefits of participating.
-4. Review the Ideas doc in the wiki [link tbd](example.com). If you have further ideas, questions, or enthusiasm for an idea, join the __#gardening-idea-XXXXXX__ channel in Slack to discuss it.
+4. Visit the [Project Ideas Hackpad](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas) in the gardening wiki. 
+   * Review the ideas. If you have follow-up ideas, questions, or enthusiasm for an idea, join the listed __#gardening-idea-XXXXXX__ channel in Slack to discuss it.
+   * If you have a project idea, follow the instructions to add it. Then go to Spinnaker Slack and create the Channel Name you specified. 
 5. Leverage our "Day Zero" materials. We will announce in **#gardening-general** and publish the links on this page when they are available. The Workshops will be ready the week prior to the hackathon. We'll also host office hours on the day before the hackathon starts; you can ask for help there or in Slack.
 
     - Asynchronous Getting Started Workshop
