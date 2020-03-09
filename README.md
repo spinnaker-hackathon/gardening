@@ -50,7 +50,8 @@ __look out for optional break channel events to be added to this schedule, or pr
 |12:30-1:30 PM|Lunch Panel (optional)|
 |1:30-3:00 PM|Team Work Block|
 |3:00-5:00|Show & Tell Demos
-|5:00-5:30|Community Awards & Wrap-Up|
+|5:00-5:20|Community Awards|
+|5:20-5:30|Wrap-Up|
 
 
 ### Training Schedule
