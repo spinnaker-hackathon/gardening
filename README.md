@@ -1,22 +1,22 @@
 # Spinnaker-Gardening #CommunityHack
 
-Move the needle on continuous delivery projects at Spinnaker Gardening Days #communityHack, sponsored by SalesForce! Join user companies to learn and let your skills shine at this collaborative hackathon. We’ll address open-source feature requirements and extend the ecosystem.
+Move the needle on continuous delivery projects at Spinnaker Gardening Days #communityHack, sponsored by SalesForce! Join other Spinnaker users and companies to learn and let your skills shine at this collaborative hackathon. We’ll address open-source feature requests and extend the ecosystem.
 
 ## What is this?
-This is documentation for Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is to set expectations and help you get started.
+This is documentation for the Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is help you get started.
 
 ## When is the event?
 The first event will take place online on April 9 & 10, 2020. [Click here](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111) to register. Tickets are available for the hackathon, 
 
 ## How should I prepare to participate in Spinnaker Gardening?
-1. Register for the event [here in Eventbrite](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111)
+1. Register for the event [on Eventbrite](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111)
 2. [Join Spinnaker Slack](join.spinnaker.io) and join the following channels:
-    * **#gardening-general**   Make general, public conversation. Please use threads for (welcome!) jokes and side convos
-    * **#gardening-ineedhelp**   Request help here from experts during the hackathon, or ask setup questions before it starts.
-3. Ask for your organization to "sponsor" your time at the event. [Use this flyer](https://s.armory.io/v1ur0KQQ) to highlight the benefits of participating.
-4. Visit the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas) in the gardening wiki tab. 
+    * **[#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF)**   Make general, public conversation. Please use threads for (welcome!) jokes and side conversations.
+    * **[#gardening-ineedhelp](https://spinnakerteam.slack.com/archives/CURFZGL2E)**   Request help from experts during the hackathon, or ask setup questions before it starts.
+3. Ask your organization to "sponsor" your time at the event. [Use this flyer](https://s.armory.io/v1ur0KQQ) to highlight the benefits of participating.
+4. Visit the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas) in the Gardening Wiki tab. 
    * Review the ideas. If you have follow-up ideas, questions, or enthusiasm for an idea, join the listed __#gardening-idea-XXXXXX__ channel in Slack to discuss it.
-   * If you have a project idea, follow the instructions to add it. Then go to Spinnaker Slack and create the Channel Name you specified. 
+   * If you have a project idea, follow the instructions to add it. Then, go to Spinnaker Slack and create the Channel Name you specified. 
 5. Leverage our "Day Zero" materials. We will announce in **#gardening-general** and publish the links on this page when they are available. The Workshops will be ready the week prior to the hackathon. We'll also host office hours on the day before the hackathon starts; you can ask for help there or in Slack.
 
     - Asynchronous Getting Started Workshop
@@ -24,12 +24,14 @@ The first event will take place online on April 9 & 10, 2020. [Click here](https
     - April 8, 4:00-8:00 PM PST - Open Office Hours @ Armory
 
 ## What activities can I expect to find at the April event?
-Teams will meet during work blocks, and should hack on Spinnaker projects for as much time as they like between Kickoff and Show & Tell. A Spinnaker training track will offer sessions during this time, as an alternative. Lunchtime speaker panels will offer Spinnaker and software delivery wisdom. The Docs SIG will host an activity channel for building Spinnaker.io resources. If you would like to host an activity, speak up in __#gardening-general__. 
+Teams will meet during work blocks and work on Spinnaker projects for as much time as they like between Kickoff and Show & Tell. 
+
+Are you new to Spinnaker? There are other oppurtunities to join the community. A Spinnaker training track will offer sessions during this time, as an alternative. Lunchtime speaker panels will offer Spinnaker and software delivery wisdom. The Docs SIG will host an activity channel for building Spinnaker.io resources. If you want to host an activity, speak up in __#gardening-general__. 
 
 ### Hackathon Schedule
-*Hint: These times are PST. At the end of your US workday, try passing work to teammates in Asia Pacific or UK/Europe so they can move the project forward during their daytime hours*
+*Hint: The times are for the Pacific Time Zone (GMT -7). At the end of your workday, try passing work to teammates in a different time zone so that they can move the project forward during their daytime hours*
 
-__look out for optional break channel events to be added to this schedule, or propose your own in #gardening-general!__
+__Look out for optional break channel events to be added to this schedule, or propose your own in #gardening-general!__
 
 #### Day One
 |Time PST|Activity|
@@ -63,10 +65,10 @@ __look out for optional break channel events to be added to this schedule, or pr
 The training schedule is currently TBD and will be updated soon. Classroom-style online training will be available during this event, as an alternate track for those who don't join a project team. 
 
 ## How will we form project teams?
-Project teams should have no more than *5 participants*. 3 can be an ideal number for hackathon project teams. We'll form teams in slack, using the channels you generate from the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas). 
+Project teams should have no more than *5 participants*. 3 can be an ideal number for hackathon project teams. We'll form teams in Slack, using the channels you generate from the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas). 
 
 If you post an idea, you have a choice: 
-  * you can act as the team lead OR
+  * you can act as the team lead
   * you can find and nominate a team lead for your project
   
 The team lead must:
@@ -78,14 +80,14 @@ If you're interested in a posted idea or repository in `spinnaker-hackathon`, vi
 Event admins will reach out to proposed Team Leads the week before the event to verify participation and begin creating #gardening-team-XXXXXXX channels for use during the hackathon. 
 
 ## How will we propose project ideas to potential teammates?
-To maximize our hack time, we will begin pitching projects and forming teams in advance of April 9. First, ideas should be shared in slack and recorded in the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas). 
+To maximize our hack time, you can begin pitching projects and forming teams in advance of April 9. First, ideas should be shared in Slack and recorded in the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas). 
 Once you've committed to an idea and created a repository for it, use the repo's README file to propose your project. Images and YouTube videos are welcome aids for explaining your idea. Use __#gardening-general__ posts, Twitter, or any other means you like to recruit teammate(s).
 
-After the Kickoff on April 9, we'll do a short Project Matchmaking session. This will allow any newcomers looking to join teams to review the project READMEs and inquire. Any project teams still looking for members should speak up during this time to recruit.
+After the Kickoff on April 9, we'll do a short Project Matchmaking session. This will allow any newcomers looking to join teams or review the project READMEs and ask questions. Any project teams still looking for members should speak up during this time to recruit.
 
 ## How will you select a winning team?
-This is a collaborative hackathon, so there won't be one winning team. However, community awards and **prizes will be bestowed upon all teams that present at the Demo**. After the hackathon ends, a community voting period will open in Spinnaker Slack, to select the **Community's Choice Project**. The Community Choice Project will be recognized at Spinnaker Summit in October. 
+This is a collaborative hackathon, so there won't be one winning team. However, community awards and **prizes will be given to all teams that present at the Demo**. After the hackathon ends, a community voting period will happen in Spinnaker Slack to select the **Community's Choice Project**. The Community Choice Project will get recognized at Spinnaker Summit in October. 
 
 ## Do I need to build something production-ready to participate?
-A top goal of this event: build the community and give participants a chance to get to know each other. Your team isn't required to build something that’s fully working. If you get halfway through a project and it no longer makes sense, you will have likely learned a lot and made connections. Stay and hang out! While we're sure to come out with some useful plugins, this is supposed to be fun, not necessarily feature complete.
+A top goal of this event: build the community and give participants a chance to get to know each other. Your team isn't required to build something that’s fully working. If you get halfway through a project and it no longer makes sense, you will have likely learned a lot and made connections. Stay and hang out! While we're sure to come out with some useful features, fixes, or plugins, this is supposed to be fun. It does not need to be feature complete.
 
