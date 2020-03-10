@@ -24,7 +24,7 @@ The first event will take place online on April 9 & 10, 2020.
     - April 8, 4:00-8:00 PM PST - Open Office Hours @ Armory
 
 ## What activities can I expect to find at the April event?
-Teams will meet during work blocks, and should hack on Spinnaker projects for as much time as they like between Kickoff and Show & Tell. A Spinnaker training track will offer sessions during this time, as an alternative. Lunchtime speaker panels will offer Spinnaker and software delivery wisdom. The Docs SIG will host an activity channel for building Spinnaker.io resources. If you would like to host an activity, speak up in __#garderning-general__. 
+Teams will meet during work blocks, and should hack on Spinnaker projects for as much time as they like between Kickoff and Show & Tell. A Spinnaker training track will offer sessions during this time, as an alternative. Lunchtime speaker panels will offer Spinnaker and software delivery wisdom. The Docs SIG will host an activity channel for building Spinnaker.io resources. If you would like to host an activity, speak up in __#gardening-general__. 
 
 ### Hackathon Schedule
 *Hint: These times are PST. At the end of your US workday, try passing work to teammates in Asia Pacific or UK/Europe so they can move the project forward during their daytime hours*
