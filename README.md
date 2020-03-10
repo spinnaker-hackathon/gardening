@@ -21,7 +21,7 @@ This is documentation for Spinnaker Gardening Days #communityHack, a series of o
     - April 8, 4:00-8:00 PM - Open Office Hours @ Armory
 
 ## When is the event?
-The event will take place on April 9 & 10, 2020.
+The first event will take place on April 9 & 10, 2020.
 
 ### Hackathon Schedule
 *Hint: At the end of your US workday, try passing work to teammates in Asia Pacific or UK/Europe so they can move the project forward during their daytime hours*
