@@ -14,7 +14,7 @@ The first event will take place online on April 9 & 10, 2020. [Click here](https
 2. [Join Spinnaker Slack](join.spinnaker.io) and join the following channels:
     * **[#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF)**   Make general, public conversation. Please use threads for (welcome!) jokes and side conversations.
     * **[#gardening-ineedhelp](https://spinnakerteam.slack.com/archives/CURFZGL2E)**   Request help from experts during the hackathon, or ask setup questions before it starts.
-3. Ask your organization to "sponsor" your time at the event. [Use this flyer](https://s.armory.io/v1ur0KQQ) to highlight the benefits of participating.
+3. Ask your organization to support you in spending time at the event. [Use this flyer](https://s.armory.io/v1ur0KQQ) to highlight the benefits of participating (TL;DR - expert tips, network with fellow Spinnaker devs, free training, exposure for your company).
 4. Visit the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas) in the Gardening Wiki tab. 
    * Review the ideas. If you have follow-up ideas, questions, or enthusiasm for an idea, join the listed __#gardening-idea-XXXXXX__ channel in Slack to discuss it.
    * If you have a project idea, follow the instructions to add it. Then, go to Spinnaker Slack and create the Channel Name you specified. 
