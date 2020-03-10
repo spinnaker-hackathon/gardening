@@ -25,9 +25,9 @@ The first event will take place online on April 9 & 10, 2020. [Click here](https
     - April 8, 4:00-8:00 PM PST - Open Office Hours @ Armory
 
 ## What activities can I expect to find at the April event?
-Teams will meet during work blocks and work on Spinnaker projects for as much time as they like between Kickoff and Show & Tell. 
+Teams will meet during work blocks to work on Spinnaker projects for as much time as desired between Kickoff and Show & Tell.
 
-Are you new to Spinnaker? There are other oppurtunities to join the community. A Spinnaker training track will offer sessions during this time, as an alternative. Lunchtime speaker panels will offer Spinnaker and software delivery wisdom. The Docs SIG will host an activity channel for building Spinnaker.io resources. If you want to host an activity, speak up in __#gardening-general__. 
+New to Spinnaker? This even offers other oppurtunities to join the community. A Spinnaker training track will offer sessions during this time, as an alternative. Lunchtime speaker panels will offer Spinnaker and software delivery wisdom. The Docs SIG will host an activity channel for building Spinnaker.io resources. If you want to host an activity, speak up in __#gardening-general__. 
 
 ### Hackathon Schedule
 *Hint: The times listed are for the Pacific Time Zone (GMT -7). You're not limited to those hours though! Also try passing work to teammates in a different time zone at the end of your workday so that they can move the project forward during their daytime hours*
@@ -78,7 +78,9 @@ The team lead must:
 
 If you're interested in a posted idea or repository in `spinnaker-hackathon`, visit the channel to find out if a team is forming. If you need to recruit teammates, try posting in __#gardening-general__ about the skills you're looking for. 
 
-Event admins will reach out to proposed Team Leads the week before the event to verify participation and begin creating #gardening-team-XXXXXXX channels for use during the hackathon. 
+Event admins will reach out to proposed Team Leads the week before the event to verify participation and begin creating #gardening-team-XXXXXXX channels for use during the hackathon.
+
+Project teams are not rigid. You are free to participate in the way that makes most sense to you; please respect your teammates and communicate.
 
 ## How will we propose project ideas to potential teammates?
 To maximize our hack time, you can begin pitching projects and forming teams in advance of April 9. First, ideas should be shared in Slack and recorded in the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas). 
