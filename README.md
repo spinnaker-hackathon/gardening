@@ -5,6 +5,9 @@ Move the needle on continuous delivery projects at Spinnaker Gardening Days #com
 ## What is this?
 This is documentation for Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is to set expectations and help you get started.
 
+## When is the event?
+The first event will take place online on April 9 & 10, 2020.
+
 ## How should I prepare to participate in Spinnaker Gardening?
 1. Register for the event here [link tbd](example.com)
 2. [Join Spinnaker Slack](join.spinnaker.io) and join the following channels:
@@ -18,23 +21,20 @@ This is documentation for Spinnaker Gardening Days #communityHack, a series of o
 
     - Asynchronous Getting Started Workshop
     - Asynchronous Plugins Workshop
-    - April 8, 4:00-8:00 PM - Open Office Hours @ Armory
-
-## When is the event?
-The first event will take place on April 9 & 10, 2020.
+    - April 8, 4:00-8:00 PM PST - Open Office Hours @ Armory
 
 ### Hackathon Schedule
-*Hint: At the end of your US workday, try passing work to teammates in Asia Pacific or UK/Europe so they can move the project forward during their daytime hours*
+*Hint: These times are PST. At the end of your US workday, try passing work to teammates in Asia Pacific or UK/Europe so they can move the project forward during their daytime hours*
 
 __look out for optional break channel events to be added to this schedule, or propose your own in #gardening-general!__
 
 #### Day One
-|Time|Activity|
+|Time PST|Activity|
 |-----|-----------------------|
 |8:30-8:40 AM|Welcome & Orientation|
-|8:40-8:45 AM|Opening Remarks|
-|8:45-10:15 AM|Project Pitches|
-|10:15-12:15|Team Work Block|
+|8:40-8:50 AM|Opening Remarks|
+|8:50-9:05|Project Matchmaking|
+|9:00-12:15|Team Work Block|
 |12:30-1:30 PM|Lunch Panel (optional)|
 |1:30-2:30 PM|Expert Check-Ins|
 |2:30-4:00 PM|Team Work Block|
@@ -42,7 +42,7 @@ __look out for optional break channel events to be added to this schedule, or pr
 |4:15-EOD|Team Work Block|
 
 #### Day Two
-|Time|Activity|
+|Time PST|Activity|
 |-----|-----------------------|
 |7:00-7:05|Welcome|
 |7:05-10:00 AM|Team Work Block|
@@ -58,4 +58,6 @@ __look out for optional break channel events to be added to this schedule, or pr
 
 ### Training Schedule
 The training schedule is currently TBD and will be updated soon. Classroom-style online training will be available during this event, as an alternate track for those who don't join a project team. 
+
+
 
