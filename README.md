@@ -7,7 +7,7 @@ This is quickstart documentation for the Spinnaker Gardening Days #communityHack
 
 
 ## When is the event?
-The first event will take place online on April 9 & 10, 2020. [Click here](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111) to register. Tickets are available for the hackathon, 
+The first event will take place online on April 9 & 10, 2020. [Click here](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111) to register. Tickets are available for the hackathon. 
 
 ## How should I prepare to participate in Spinnaker Gardening?
 1. Register for the event [on Eventbrite](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111)
