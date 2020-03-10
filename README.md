@@ -75,11 +75,13 @@ The team lead must:
 
 If you're interested in a posted idea or repository in `spinnaker-hackathon`, visit the channel to find out if a team is forming. If you need to recruit teammates, try posting in __#gardening-general__ about the skills you're looking for. 
 
+Event admins will reach out to proposed Team Leads the week before the event to verify participation and begin creating #gardening-team-XXXXXXX channels for use during the hackathon. 
+
 ## How will we propose project ideas to potential teammates?
 To maximize our hack time, we will begin pitching projects and forming teams in advance of April 9. First, ideas should be shared in slack and recorded in the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas). 
-Once you've committed to an idea and created a repository for it, use the repo's README file to propose your project. Images and YouTube videos are welcome aids for explaining your idea. 
+Once you've committed to an idea and created a repository for it, use the repo's README file to propose your project. Images and YouTube videos are welcome aids for explaining your idea. Use __#gardening-general__ posts, Twitter, or any other means you like to recruit teammate(s).
 
-Use __#gardening-general__ posts, Twitter, or any other means you like to recruit teammate(s).
+After the Kickoff on April 9, we'll do a short Project Matchmaking session. This will allow any newcomers looking to join teams to review the project READMEs and inquire. Any project teams still looking for members should speak up during this time to recruit.
 
 ## Do I need to build something production-ready to participate?
 A top goal of this event: build the community and give participants a chance to get to know each other. Your team isn't required to build something that’s fully working. If you get halfway through a project and it no longer makes sense, you will have likely learned a lot and made connections. Stay and hang out! While we're sure to come out with some useful plugins, this is supposed to be fun, not necessarily feature complete.
