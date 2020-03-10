@@ -1,6 +1,6 @@
 # Spinnaker-Gardening #CommunityHack
 
-Move the needle on continuous delivery projects at Spinnaker Gardening Days #communityHack, sponsored by SalesForce! Join other Spinnaker users and companies to learn and let your skills shine at this collaborative hackathon. We’ll address open-source feature requests and extend the ecosystem.
+Move the needle on continuous delivery projects at Spinnaker Gardening Days #communityHack, sponsored by Salesforce! Join other Spinnaker users and companies to learn and let your skills shine at this collaborative hackathon. We’ll address open-source feature requests and extend the ecosystem.
 
 ## What is this?
 This is quickstart documentation for the Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is help you get started.
