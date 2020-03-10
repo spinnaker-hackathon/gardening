@@ -3,7 +3,7 @@
 Move the needle on continuous delivery projects at Spinnaker Gardening Days #communityHack, sponsored by SalesForce! Join user companies to learn and let your skills shine at this collaborative hackathon. We’ll address open-source feature requirements and extend the ecosystem.
 
 ## What is this?
-This is documentation for Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is to set expectations and help you get started.
+This is quickstart documentation for Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is to set expectations and help you get started.
 
 ## When is the event?
 The first event will take place online on April 9 & 10, 2020. [Click here](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111) to register. Tickets are available for the hackathon, 
