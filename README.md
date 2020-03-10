@@ -6,10 +6,10 @@ Move the needle on continuous delivery projects at Spinnaker Gardening Days #com
 This is documentation for Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is to set expectations and help you get started.
 
 ## When is the event?
-The first event will take place online on April 9 & 10, 2020. [Click here](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111) to register.
+The first event will take place online on April 9 & 10, 2020. [Click here](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111) to register. Tickets are available for the hackathon, 
 
 ## How should I prepare to participate in Spinnaker Gardening?
-1. Register for the event here [in Eventbrite](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111)
+1. Register for the event [here in Eventbrite](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111)
 2. [Join Spinnaker Slack](join.spinnaker.io) and join the following channels:
     * **#gardening-general**   Make general, public conversation. Please use threads for (welcome!) jokes and side convos
     * **#gardening-ineedhelp**   Request help here from experts during the hackathon, or ask setup questions before it starts.
@@ -82,6 +82,9 @@ To maximize our hack time, we will begin pitching projects and forming teams in 
 Once you've committed to an idea and created a repository for it, use the repo's README file to propose your project. Images and YouTube videos are welcome aids for explaining your idea. Use __#gardening-general__ posts, Twitter, or any other means you like to recruit teammate(s).
 
 After the Kickoff on April 9, we'll do a short Project Matchmaking session. This will allow any newcomers looking to join teams to review the project READMEs and inquire. Any project teams still looking for members should speak up during this time to recruit.
+
+## How will you select a winning team?
+This is a collaborative hackathon, so there won't be one winning team. However, community awards and **prizes will be bestowed upon all teams that present at the Demo**. After the hackathon ends, a community voting period will open in Spinnaker Slack, to select the **Community's Choice Project**. The Community Choice Project will be recognized at Spinnaker Summit in October. 
 
 ## Do I need to build something production-ready to participate?
 A top goal of this event: build the community and give participants a chance to get to know each other. Your team isn't required to build something that’s fully working. If you get halfway through a project and it no longer makes sense, you will have likely learned a lot and made connections. Stay and hang out! While we're sure to come out with some useful plugins, this is supposed to be fun, not necessarily feature complete.
