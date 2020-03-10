@@ -36,8 +36,8 @@ __look out for optional break channel events to be added to this schedule, or pr
 |-----|-----------------------|
 |8:30-8:40 AM|Welcome & Orientation|
 |8:40-8:50 AM|Kickoff Remarks|
-|8:50-9:05|Project Matchmaking|
-|9:05-12:15|Team Work Block|
+|8:50-9:10|Project Matchmaking|
+|9:10-12:15|Team Work Block|
 |12:30-1:30 PM|Lunch Panel (optional)|
 |1:30-2:30 PM|Expert Check-Ins|
 |2:30-4:00 PM|Team Work Block|
@@ -68,9 +68,18 @@ Project teams should have no more than *5 participants*. 3 can be an ideal numbe
 If you post an idea, you have a choice: 
   * you can act as the team lead OR
   * you can find and nominate a team lead for your project
-The team lead is responsible for creating a new repository inside the [`spinnaker-hacakthon`](https://github.com/organizations/spinnaker-hackathon) organization. Use the string in your Slack channel name ("#gardening-idea-__XXXXXXX__") for your repository name to make it easy for other participants to find the project. Team leads should also ensure that a descriptive README file anchors the project, as this will help the community to understand your amazing concept and implementation ideas.
+  
+The team lead must:
+  * Create a new repository inside the [`spinnaker-hacakthon`](https://github.com/organizations/spinnaker-hackathon) organization. Use the string from your Slack channel name ("#gardening-idea-__XXXXXXX__") for your repository name to make it easy for other participants to find the project. 
+  * Ensure that a descriptive README file anchors the project. This is your project proposal and will help the community to understand your amazing concept and implementation ideas.
 
-If you're interested in a posted idea or repository in `spinnaker-hackathon`, visit the channel to find out if a team is forming.  
+If you're interested in a posted idea or repository in `spinnaker-hackathon`, visit the channel to find out if a team is forming. If you need to recruit teammates, try posting in __#gardening-general__ about the skills you're looking for. 
+
+## How will we propose project ideas to potential teammates?
+To maximize our hack time, we will begin pitching projects and forming teams in advance of April 9. First, ideas should be shared in slack and recorded in the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas). 
+Once you've committed to an idea and created a repository for it, use the repo's README file to propose your project. Images and YouTube videos are welcome aids for explaining your idea. 
+
+Use __#gardening-general__ posts, Twitter, or any other means you like to recruit teammate(s).
 
 ## Do I need to build something production-ready to participate?
 A top goal of this event: build the community and give participants a chance to get to know each other. Your team isn't required to build something that’s fully working. If you get halfway through a project and it no longer makes sense, you will have likely learned a lot and made connections. Stay and hang out! While we're sure to come out with some useful plugins, this is supposed to be fun, not necessarily feature complete.
