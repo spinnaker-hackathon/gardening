@@ -41,7 +41,7 @@ __look out for optional break channel events to be added to this schedule, or pr
 |12:30-1:30 PM|Lunch Panel (optional)|
 |1:30-2:30 PM|Expert Check-Ins|
 |2:30-4:00 PM|Team Work Block|
-|4:00-4:15 PM|Breaktime Fun|
+|4:00-4:15 PM|Breaktime Fun (optional)|
 |4:15-EOD|Team Work Block|
 
 #### Day Two
@@ -50,7 +50,7 @@ __look out for optional break channel events to be added to this schedule, or pr
 |7:00-7:05|Welcome|
 |7:05-10:00 AM|Team Work Block|
 |9:00-10:00|Expert Check-Ins|
-|10:00-10:15|Breaktime Fun|
+|10:00-10:15|Breaktime Fun (optional)|
 |10:15-12:30|Team Work Block|
 |12:30-1:30 PM|Lunch Panel (optional)|
 |1:30-3:00 PM|Team Work Block|
