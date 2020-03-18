@@ -93,6 +93,13 @@ After the Kickoff on April 9, we'll do a short Project Matchmaking session. This
 ## How will you select a winning team?
 This is a collaborative hackathon, so there won't be one winning team. However, community awards and **prizes will be given to all teams that present at the Demo**. After the hackathon ends, a community voting period will happen in Spinnaker Slack to select the **Community's Choice Project**. The Community Choice Project will get recognized at Spinnaker Summit in October. 
 
+## Prizes, what prizes?!
+We're working on building our prize and award structure! Sneak peek for now:
+  * The team leads who do the best job of community recruiting and team leadership will receive a [Click 'N Grow Smart Garden 9](https://www.clickandgrow.com/products/the-smart-garden-9), plus seed quilts, for optimal urban or pandemic gardening
+  * New contributors who join project teams and participate in the demo will win [Sphero Mini] robotic balls 
+  * Every member of every team that presents at the demo will be rewarded : )
+  * Every participant will receive swag and a free lunch delivery voucher for each day they show up
+
 ## Do I need to build something production-ready to participate?
 A top goal of this event: build the community and give participants a chance to get to know each other. Your team isn't required to build something that’s fully working. If you get halfway through a project and it no longer makes sense, you will have likely learned a lot and made connections. Stay and hang out! While we're sure to come out with some useful features, fixes, or plugins, this is supposed to be fun. It does not need to be feature complete.
 
