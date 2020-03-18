@@ -96,7 +96,7 @@ This is a collaborative hackathon, so there won't be one winning team. However, 
 ## Prizes, what prizes?!
 We're working on building our prize and award structure! Sneak peek for now:
   * The team leads who do the best job of community recruiting and team leadership will receive a [Click 'N Grow Smart Garden 9](https://www.clickandgrow.com/products/the-smart-garden-9), plus seed quilts, for optimal urban or pandemic gardening
-  * New contributors who join project teams and participate in the demo will win [Sphero Mini] robotic balls 
+  * New contributors who join project teams and participate in the demo will win [Sphero Mini](https://www.sphero.com/sphero-mini) programmable  robotic balls 
   * Every member of every team that presents at the demo will be rewarded : )
   * Every participant will receive swag and a free lunch delivery voucher for each day they show up
 
