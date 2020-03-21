@@ -29,7 +29,7 @@ The first event will take place online on April 9 & 10, 2020. [Click here](https
 ## What activities can I expect to find at the April event?
 Teams will meet to work on Spinnaker projects during work blocks, and for as much time as desired between the 4/9 Kickoff and 4/10 Show & Tell sessions.
 
-New to Spinnaker? This even offers other oppurtunities to join the community. A Spinnaker training track will offer sessions during this time, as an alternative. Lunchtime speaker panels will offer Spinnaker and software delivery wisdom. The Docs SIG will host an activity channel for building Spinnaker.io resources. If you want to host an activity, speak up in __#gardening-general__. 
+New to Spinnaker? This event offers other opportunities to join the community. A Spinnaker training track will offer sessions during this time, as an alternative. Lunchtime speaker panels will offer Spinnaker and software delivery wisdom. The Docs SIG will host an activity channel for building Spinnaker.io resources. If you want to host an activity, speak up in __#gardening-general__. 
 
 ### Hackathon Schedule
 *Hint: The times listed are for the Pacific Time Zone (GMT -7). You're not limited to those hours though! Also try passing work to teammates in a different time zone at the end of your workday so that they can move the project forward during their daytime hours*
