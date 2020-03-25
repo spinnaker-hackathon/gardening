@@ -1,6 +1,6 @@
 # April Spinnaker Gardening Virtual #CommunityHack
 
-Have fun and move the needle on continuous delivery at Spinnaker Gardening Days #communityHack, sponsored by Salesforce! Join other Spinnaker users and companies to learn and let your skills shine at this collaborative hackathon. We’ll dig into issues and features in open-source, and extend the ecosystem.
+Have fun and move the needle on continuous delivery at Spinnaker Gardening Days #communityHack, sponsored by Salesforce! Virtually join other Spinnaker users and companies on April 9 & 10 to learn and let your skills shine at this collaborative hackathon. We’ll dig into issues and features in open-source, and extend the ecosystem.
 
 ![Spinnaker Gardening Days Hero](3.png "Spinnaker Gardening")
 
