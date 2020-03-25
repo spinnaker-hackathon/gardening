@@ -19,7 +19,7 @@ Here's the prizing structure (we reserve the right to add mystery prizes to swee
 ## What is this and why do I care?
 This is quickstart documentation for the Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is help you get started participating.
 
-Right now, humans are more isolated than ever; however, we're coming together virtually like never before. The culture of dispersed and asynchronous collaboration at the foundation of open source seems more relevant than ever as we must together rise to a totally overwhelming and frightening challenge. Spinnaker Gardening Days aims the shine a light of fun and hope into a place where we can envision a future of great software delivery bringing us closer to the experiences that matter. Let's solve together; you'll have fun, we promise!
+Right now, humans are more isolated than ever; however, we're coming together virtually like never before. The culture of dispersed and asynchronous collaboration at the foundation of open source seems more relevant than ever as we must together rise to a totally overwhelming and frightening challenge. Spinnaker Gardening Days aims the shine a light of fun and hope into our community. We envision a future of great software delivery bringing us closer to the experiences that matter. Let's solve together; you'll have fun, we promise!
 
 ## When is the event?
 The first event will take place online on April 9 & 10, 2020. [Click here](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111) to register. Tickets are available for the hackathon. 
