@@ -4,9 +4,22 @@ Have fun and move the needle on continuous delivery at Spinnaker Gardening Days 
 
 ![Spinnaker Gardening Days Hero](3.png "Spinnaker Gardening")
 
-## What is this?
-This is quickstart documentation for the Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is help you get started.
+## Prizes, what prizes?!
+Here's the prizing structure (we reserve the right to add mystery prizes to sweeten the deal!):
+  - [Mavic Mini Fly More Kit](https://store.dji.com/product/mavic-mini?vid=84651), a fully-equipped lightweight camera drone
+    - Enter a drawing to win by submitting a PR to a Spinnaker service or project while participating in Spinnaker Gardening
+  - [Click 'N Grow Smart Garden 9](https://www.clickandgrow.com/products/the-smart-garden-9), plus seed quilts, for optimal urban or pandemic gardening
+    - Win by leading a project team and recruiting team members from the community (hint: [start here](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas)
+  -  [Sphero Mini](https://www.sphero.com/sphero-mini) programmable robotic ball 
+    - Brand-new contributors, win by joining a project team, participating in the demo, and creating one or more contributions (PR/issue comments and issues count!) while participating in Spinnaker Gardening
+  - Win a mystery prize by participating in a project demo : )
+  - Win free lunch delivery, swag, and unlimited smiles 
+    - Win by showing up to Spinnaker Gardening
 
+## What is this and why do I care?
+This is quickstart documentation for the Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is help you get started participating.
+
+Right now, humans are more isolated than ever; however, we're coming together virtually like never before. The culture of dispersed and asynchronous collaboration at the foundation of open source seems more relevant than ever as we must together rise to a totally overwhelming and frightening challenge. Spinnaker Gardening Days aims the shine a light of fun and hope into a place where we can envision a future of great software delivery bringing us closer to the experiences that matter. Let's solve together; you'll have fun, we promise!
 
 ## When is the event?
 The first event will take place online on April 9 & 10, 2020. [Click here](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111) to register. Tickets are available for the hackathon. 
@@ -48,6 +61,7 @@ __Look out for optional break channel events to be added to this schedule, or pr
 |2:30-4:00 PM|Team Work Block|
 |4:00-4:15 PM|Breaktime Fun (optional)|
 |4:15-EOD|Team Work Block|
+|5:00-6:30 PM|Garden Party Happy Hour|
 
 #### Day Two
 |Time PST|Activity|
@@ -93,13 +107,10 @@ After the Kickoff on April 9, we'll do a short Project Matchmaking session. This
 ## How will you select a winning team?
 This is a collaborative hackathon, so there won't be one winning team. However, community awards and **prizes will be given to all teams that present at the Demo**. After the hackathon ends, a community voting period will happen in Spinnaker Slack to select the **Community's Choice Project**. The Community Choice Project will get recognized at Spinnaker Summit in October. 
 
-## Prizes, what prizes?!
-We're working on building our prize and award structure! Sneak peek for now:
-  * The team leads who do the best job of community recruiting and team leadership will receive a [Click 'N Grow Smart Garden 9](https://www.clickandgrow.com/products/the-smart-garden-9), plus seed quilts, for optimal urban or pandemic gardening
-  * New contributors who join project teams and participate in the demo will win [Sphero Mini](https://www.sphero.com/sphero-mini) programmable  robotic balls 
-  * Every member of every team that presents at the demo will be rewarded : )
-  * Every participant will receive swag and a free lunch delivery voucher for each day they show up
 
 ## Do I need to build something production-ready to participate?
 NO! A top goal of this event: build the community and give participants a chance to get to know each other. Your team isn't required to build something that’s fully working. If you get halfway through a project and it no longer makes sense, you will have likely learned a lot and made connections. Stay and hang out! While we're sure to come out with some useful features, fixes, or plugins, this is supposed to be fun. It does not need to be feature complete.
+
+## Where can I find the training track schedule and details?
+Here, very soon! We're working to get the best possible training schedule put together and will post it ASAP. If you have suggestions or specific questions about training, please post in #gardening-general on Spinnaker Slack. 
 
