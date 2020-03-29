@@ -35,7 +35,8 @@ The first event will take place online on April 9 & 10, 2020. [Click here](https
 4. Visit the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas) in the Gardening Wiki tab. 
    * Review the ideas. If you have follow-up ideas, questions, or enthusiasm for an idea, join the listed __#gardening-idea-XXXXXX__ channel in Slack to discuss it.
    * If you have a project idea, follow the instructions to add it. Then, go to Spinnaker Slack and create the Channel Name you specified. 
-5. Leverage our ramp-up materials. We will announce in **#gardening-general** and publish the links on this page when they are available. The Workshops will be ready the week prior to the hackathon. We'll also host office hours on the day before the hackathon starts; you can ask for help there or in Slack.
+5. Read the [Plugin Users Guide](https://www.spinnaker.io/guides/user/plugin-users/) to learn about the new plugin framework for Spinnaker. Project teams should strongly consider building extensions and customizations as plugins, to accelerate progress and make projects easier to maintain. Leverage an existing Gradle build and extension points in Spinnaker's microservices. Look out for more in-depth plugin training soon!
+6. Leverage our ramp-up materials. We will announce in **#gardening-general** and publish the links on this page when they are available. The Workshops will be ready the week prior to the hackathon. We'll also host office hours on the day before the hackathon starts; you can ask for help there or in Slack.
 
     - Asynchronous Getting Started Workshop
     - Asynchronous Plugins Workshop
@@ -112,6 +113,9 @@ This is a collaborative hackathon, so there won't be one winning team. However, 
 
 ## Do I need to build something production-ready to participate?
 NO! A top goal of this event: build the community and give participants a chance to get to know each other. Your team isn't required to build something that’s fully working. If you get halfway through a project and it no longer makes sense, you will have likely learned a lot and made connections. Stay and hang out! While we're sure to come out with some useful features, fixes, or plugins, this is supposed to be fun. It does not need to be feature complete.
+
+## Should we build our project as a Spinnaker plugin?
+Yes, if possible! Read the [Plugin Users Guide](https://www.spinnaker.io/guides/user/plugin-users/) to learn more about how to use and build Spinnaker plugins.
 
 ## Where can I find the training track schedule and details?
 Here, very soon! We're working to get the best possible training schedule put together and will post it ASAP. If you have suggestions or specific questions about training, please post in #gardening-general on Spinnaker Slack. 
