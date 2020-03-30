@@ -82,7 +82,30 @@ __Look out for optional break channel events to be added to this schedule, or pr
 
 
 ### Training Schedule
-The training schedule is currently TBD and will be updated soon. Classroom-style online training will be available during this event, as an alternate track for those who don't join a project team. 
+#### Morning Modules: Get Hands-On With Spinnaker
+_Attend these modules either Thursday or Friday morning_
+|Time PST|Module|
+|-----|-----------------------|
+|9:00-9:50|SDLC Concepts|
+|10:00-11:00|Intro to Spinnaker Lab 1: First Pipeline for Kubernetes|
+|11:00-12:00|Intro to Spinnaker Lab 2: AWS QuickStart|
+|12:10-12:30|Spinnaker Concepts|
+
+#### Thursday PM Modules: Advanced Spinnaker
+|Time PST|Module|
+|-----|-----------------------|
+|1:30-2:00|Intro to Operating Spinnaker|
+|2:00-2:50|Advanced Spinnaker Lab 1: SpEL & Artifacts|
+|3:00-4:00|Advanced Spinnaker Lab 2: Custom Stages|
+|4:10-5:00|Spinnaker Plugins|
+
+#### Friday PM Modules: By Popular Demand
+|Time PST|Module|
+|-----|-----------------------|
+|1:30-2:00|Open Floor Q&A|
+|2:00-3:00|Repeat Session or Q&A by Slack Vote|
+
+
 
 ## How will we form project teams?
 Project teams should have no more than *5 participants*. 3 can be an ideal number for hackathon project teams. We'll form teams in Slack, using the channels you generate from the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas). 
@@ -116,7 +139,3 @@ NO! A top goal of this event: build the community and give participants a chance
 
 ## Should we build our project as a Spinnaker plugin?
 Yes, if possible! Read the [Plugin Users Guide](https://www.spinnaker.io/guides/user/plugin-users/) to learn more about how to use and build Spinnaker plugins.
-
-## Where can I find the training track schedule and details?
-Here, very soon! We're working to get the best possible training schedule put together and will post it ASAP. If you have suggestions or specific questions about training, please post in #gardening-general on Spinnaker Slack. 
-
