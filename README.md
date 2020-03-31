@@ -88,8 +88,8 @@ _Attend these modules either Thursday or Friday morning_
 |-----|-----------------------|
 |9:00-9:50|SDLC Concepts|
 |10:00-11:00|Intro to Spinnaker Lab 1: First Pipeline for Kubernetes|
-|11:00-12:00|Intro to Spinnaker Lab 2: AWS QuickStart|
-|12:10-12:30|Spinnaker Concepts|
+|11:00-11:50|Intro to Spinnaker Lab 2: AWS QuickStart|
+|12:00-12:30|Spinnaker Concepts|
 
 #### Thursday PM Modules: Advanced Spinnaker
 |Time PST|Module|
