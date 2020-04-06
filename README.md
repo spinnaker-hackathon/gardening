@@ -28,7 +28,7 @@ The first event will take place online on April 9 & 10, 2020. [Click here](https
 
 ## How should I prepare to participate in Spinnaker Gardening?
 1. Register for the event [on Eventbrite](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111)
-2. [Join Spinnaker Slack](join.spinnaker.io) and join the following channels:
+2. [Join Spinnaker Slack](http://join.spinnaker.io) and join the following channels:
     * **[#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF)**   Make general, public conversation. Please use threads for (welcome!) jokes and side conversations.
     * **[#gardening-ineedhelp](https://spinnakerteam.slack.com/archives/CURFZGL2E)**   Request help from experts during the hackathon, or ask setup questions before it starts.
 3. Ask your organization to support you in spending time at the event. [Use this flyer](https://s.armory.io/v1ur0KQQ) to highlight the benefits of participating (TL;DR - expert tips, network with fellow Spinnaker devs, free training, exposure for your company).
