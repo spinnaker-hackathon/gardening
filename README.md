@@ -2,6 +2,8 @@
 
 Have fun and move the needle on continuous delivery at [Spinnaker Gardening Days #communityHack](https://www.eventbrite.com/e/spinnaker-gardening-days-communityhack-tickets-97845696111), sponsored by Salesforce! Virtually join other Spinnaker users and companies on April 9 & 10 to learn and let your skills shine at this collaborative hackathon. We’ll dig into issues and features in open-source, and extend the ecosystem.
 
+Learn more about event logistics, what we'll hack on, setting up your development environment, and more in the [Spinnaker Gardening Days](https://www.spinnaker.io/community/gardening/) pages on Spinnaker.io.
+
 ![Spinnaker Gardening Days Hero](3.png "Spinnaker Gardening")
 
 ## Prizes, what prizes?!
