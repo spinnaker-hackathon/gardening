@@ -14,6 +14,14 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
    - Plugins training - Frontend development: https://youtu.be/b7BmMY1kR10
    - More context is here on the Spinnaker Community Blog: https://blog.spinnaker.io/cant-go-outside-dip-your-toes-in-the-spinnaker-plugins-pool-1076f74003b
    - Build and Delivery videos will be released soon!
+   
+## Attending the Event
+- [Main Zoom link for the event](https://armory.zoom.us/j/979793520)
+- Check-in begins at 8:00 AM PDT. Check in by entering the main Zoom meeting room. In the chat, you'll see a link to a check-in form.
+- Enter your info in the check-in form and submit. It will be used to send you a $15 Doordash voucher for lunch, add you to the spinnaker-hackathon organization on GitHub, and mail your swag bag/prizes. 
+- All other Zoom meeting links for the event will be available as channel topics in [event Slack channels](https://www.spinnaker.io/community/gardening/slack-map/)
+- [What to hack](https://www.spinnaker.io/community/gardening/what-to-hack/) and [Hackathon logistics](https://www.spinnaker.io/community/gardening/hack-logistics/) guidance available on spinnaker.io
+
 
 ## Prizes, what prizes?!
 Here's the prizing structure (we reserve the right to add mystery prizes to sweeten the deal!):
@@ -47,11 +55,14 @@ The first event will take place online on April 9 & 10, 2020. [Click here](https
    * Review the ideas. If you have follow-up ideas, questions, or enthusiasm for an idea, join the listed __#gardening-idea-XXXXXX__ channel in Slack to discuss it.
    * If you have a project idea, follow the instructions to add it. Then, go to Spinnaker Slack and create the Channel Name you specified. 
 5. Read the [Plugin Users Guide](https://www.spinnaker.io/guides/user/plugin-users/) to learn about the new plugin framework for Spinnaker. Project teams should strongly consider building extensions and customizations as plugins, to accelerate progress and make projects easier to maintain. Leverage an existing Gradle build and extension points in Spinnaker's microservices. Look out for more in-depth plugin training soon!
-6. Leverage our ramp-up materials. We will announce in **#gardening-general** and publish the links on this page when they are available. The Workshops will be ready the week prior to the hackathon. We'll also host office hours on the day before the hackathon starts; you can ask for help there or in Slack.
-
-    - Asynchronous Getting Started Workshop
-    - Asynchronous Plugins Workshop
-    - April 8, 4:00-8:00 PM PST - Open Office Hours @ Armory
+6. Leverage our ramp-up materials. We will announce in **#gardening-general** and publish the links on this page when they are available. 
+   - Development environment setup training: https://youtu.be/xSZlWf9rUI4
+     - Complete guide on spinnaker.io: https://www.spinnaker.io/community/gardening/dev-environment/
+   - Plugins training - 
+     - Backend development: https://youtu.be/b7BmMY1kR10
+     - Plugins training - Frontend development: https://youtu.be/b7BmMY1kR10
+     - More context is here on the Spinnaker Community Blog: https://blog.spinnaker.io/cant-go-outside-dip-your-toes-in-the-spinnaker-plugins-pool-1076f74003b
+     - Build and Delivery videos will be released soon!
 
 ## What activities can I expect to find at the April event?
 Teams will meet to work on Spinnaker projects during work blocks, and for as much time as desired between the 4/9 Kickoff and 4/10 Show & Tell sessions.
