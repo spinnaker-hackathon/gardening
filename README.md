@@ -6,6 +6,15 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
 
 ![Spinnaker Gardening Days Hero](3.png "Spinnaker Gardening")
 
+## Pre-training Videos Now Available!
+1. Development environment setup training: https://youtu.be/xSZlWf9rUI4
+   - Complete guide on spinnaker.io: https://www.spinnaker.io/community/gardening/dev-environment/
+2. Plugins training - 
+   - Backend development: https://youtu.be/b7BmMY1kR10
+   - Plugins training - Frontend development: https://youtu.be/b7BmMY1kR10
+   - More context is here on the Spinnaker Community Blog: https://blog.spinnaker.io/cant-go-outside-dip-your-toes-in-the-spinnaker-plugins-pool-1076f74003b
+   - Build and Delivery videos will be released soon!
+
 ## Prizes, what prizes?!
 Here's the prizing structure (we reserve the right to add mystery prizes to sweeten the deal!):
   - [Mavic Mini Fly More Kit](https://store.dji.com/product/mavic-mini?vid=84651), a fully-equipped lightweight camera drone
