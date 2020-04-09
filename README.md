@@ -9,11 +9,12 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
 ## Pre-training Videos Now Available!
 1. Development environment setup training: https://youtu.be/xSZlWf9rUI4
    - Complete guide on spinnaker.io: https://www.spinnaker.io/community/gardening/dev-environment/
-2. Plugins training - 
-   - Backend development: https://youtu.be/b7BmMY1kR10
-   - Plugins training - Frontend development: https://youtu.be/b7BmMY1kR10
-   - More context is here on the Spinnaker Community Blog: https://blog.spinnaker.io/cant-go-outside-dip-your-toes-in-the-spinnaker-plugins-pool-1076f74003b
-   - Build and Delivery videos will be released soon!
+2. Plugins training
+   - [Pluging into the UI video](https://youtu.be/u9NVlG58NYo)
+   - [Pluging into Spinnaker services video](https://youtu.be/b7BmMY1kR10)
+   - [Plugin build and release video](https://drive.google.com/file/d/16DIo812nRyan2CDCTuZvsgN4D9yl0Dur/view?usp=sharing)
+   - [Plugin delivery video](https://drive.google.com/file/d/1k-MUgmwWFdh6YiozmFw5Y2hGSm84UeTw/view?usp=sharing)
+   - More context is here on the [Spinnaker Community Blog](https://blog.spinnaker.io/cant-go-outside-dip-your-toes-in-the-spinnaker-plugins-pool-1076f74003b)
    
 ## Attending the Event
 - [Main Zoom link for the event](https://armory.zoom.us/j/979793520)
@@ -137,7 +138,7 @@ If you post an idea, you have a choice:
   * you can find and nominate a team lead for your project
   
 The team lead must:
-  * Create a new repository inside the [`spinnaker-hacakthon`](https://github.com/organizations/spinnaker-hackathon) organization. Use the string from your Slack channel name ("#gardening-idea-__XXXXXXX__") for your repository name to make it easy for other participants to find the project. 
+  * Create a new repository inside the [`spinnaker-hackathon`](https://github.com/spinnaker-hackathon) organization. Use the string from your Slack channel name ("#gardening-idea-__XXXXXXX__") for your repository name to make it easy for other participants to find the project. 
   * Ensure that a descriptive README file anchors the project. This is your project proposal and will help the community to understand your amazing concept and implementation ideas.
 
 If you're interested in a posted idea or repository in `spinnaker-hackathon`, visit the channel to find out if a team is forming. If you need to recruit teammates, try posting in __#gardening-general__ about the skills you're looking for. 
