@@ -144,7 +144,7 @@ A hands-on teacher volunteers to guide a group of attendees in a hands-on traini
 A hands-on teaching assistant volunteers to support hands-on teachers and attendees during a Spinnaker Gardening Days Hands-On Class. This may include going into breakout rooms with one or more attendees to troubleshoot 1:1 or in smaller groups. Hands-on TAs should be generally familiar with the course material and should reach out to the teacher in advance to sync on content. 
 
 ### Match Advisor (est 2.5 hrs)
-A match advisor is responsible for assisting in the formation of teams from hackathon teams based on the skills and interests they share at registration. Match advisors must be available for a half hour orientation discussion the week of July 6th, and for a 2-hour synchronous session on Monday afternoon (6/13) or Tuesday morning (6/14) to form the teams.
+A match advisor is responsible for assisting in the formation of teams from hackathon teams based on the skills and interests they share at registration. Match advisors must be available for a half hour orientation discussion the week of July 6th, and for a 2-hour synchronous session on Monday afternoon (7/13) or Tuesday morning (7/14) to form the teams.
 
 ## To Be Announced:
 Look out for a **training schedule** and **training playlists**, a **team and project matching timeline**, a **prize package breakdown**, and more.
