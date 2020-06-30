@@ -1,10 +1,8 @@
-# Don't miss V2 of Spinnaker Gardening Days, your open source hackathon
-
-__Teams and hackers: If you are blocked, and when you need expert guidance, ping in #gardening-ineedhelp in Spinnaker Slack! The experts are standing by__
+# Spinnaker Gardening Days, your open source hackathon
 
 [Register here](https://go.armory.io/gardening) to join Spinnaker contributors on July 16-23 to learn and build. The buzz around our inaugural hackathon brought the community together, so we’re launching V2 as a weeklong event with team placement and project matching support, SIG projects, free compute from AWS, a global-friendly schedule, and much more. All are welcome! Automate your SDLC and extend the ecosystem with us.
 
-Learn more about event logistics, what we'll hack on, setting up your development environment, and more in the [Spinnaker Gardening Days](https://www.spinnaker.io/community/gardening/) pages on Spinnaker.io.
+Learn more about event logistics, what we'll hack on, setting up your development environment, and more in the [Spinnaker Gardening Days](https://www.spinnaker.io/community/gardening/) pages on Spinnaker.io. Got questions that aren't answered here? Post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) on Spinnaker Slack. 
 
 ![Spinnaker Gardening Days Hero](v2Hero.png "Spinnaker Gardening")
 
@@ -26,22 +24,20 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
 
 ## Prizes, what prizes?!
 Contribute when you can! We'll reward Spinnaker Gardening Days contributors with two buckets of prizes:
-- **Individual Prizes:** When you register, all contributions you make during the Gardening Days (July 16-23) count towards your contributor points total. Earn points = Earn prizes. Contributions include:
+- **Individual Prizes:** When you register, all contributions you make during the Gardening Days (July 16-23) count towards your contributor points total. Earn points = Earn prizes. [Check out the full list of qualified contributions](https://spinnaker.io/community/gardening/what-to-hack/), including:
   - GitHub activity and contributions
   - Spinnaker tips or recent news items shared in OSS Slack
   - Codelab and training video run-throughs
   - Assisting in Spinnaker Slack answers
   - Assisting in Spinnaker StackOverflow answers
   - Documentation activities
+  
  
 - **Team Challenge Prizes:** Teams in each challenge category will be awarded First and Runner Up team prize packages
   - Retrofit 500 Challenge - Fix the most commonly occurring 500 errors
   - Plugin Challenge - Work with Armory engineers to customize Spinnaker with a plugin
   - Automate Your SDLC Challenge - Share your Spinnaker with technical content
   - SIG Challenges - Bring your ideas to Special Session meetings of the Operations SIG, AWS SIG and more to join a SIG team
-
- 
-
 
 ## What is this and why do I care?
 This is quickstart documentation for the Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is help you get started participating.
@@ -52,6 +48,9 @@ Let's solve together; you'll have fun, we promise!
 
 ## When is the event?
 This second event will take place online on July 16th - 23rd, 2020. [Click here](https://go.armory.io/gardening) to register. Tickets are available for the hackathon and dedicated training workshops. 
+
+## Teams and First Timers
+This time, team formation is on us. The registration questions will help us to create balanced teams of 2-5. Then, we'll connect you with your teammates on Spinnaker Slack the week on the hackathon. There, you can share your project ideas. Our team of Spinnaker community experts can also help you choose the perfect project, and will be on call to advise you through the week. Consult and collaborate through blockers.
 
 ## How should I prepare to participate in Spinnaker Gardening?
 1. Register for the event [on Eventbrite](https://go.armory.io/gardening)
@@ -71,17 +70,6 @@ This second event will take place online on July 16th - 23rd, 2020. [Click here]
      - Plugins training - Frontend development: https://youtu.be/b7BmMY1kR10
      - More context is here on the Spinnaker Community Blog: https://blog.spinnaker.io/cant-go-outside-dip-your-toes-in-the-spinnaker-plugins-pool-1076f74003b
      - Build and Delivery videos will be released soon!
-     
-## Teams and First Timers
-This time, team formation is on us. The registration questions will help us to create balanced teams of 2-5. Then, our team of Spinnaker community experts can help you choose the perfect project and will be on call to advise you through the week. Consult and collaborate through blockers.
-
-We'll explore, learn, and take action. Register today and grow Spinnaker with us! Once you're registered, ping us in the #gardening-general channel in Spinnaker Slack to get started.
-
-
-## What activities can I expect to find at the July event?
-Teams will meet to work on Spinnaker projects during work blocks, and for as much time as desired between the 7/16 Kickoff and 7/23 Show & Tell sessions.
-
-New to Spinnaker? This event offers other opportunities to join the community. Lunchtime speaker panels will offer Spinnaker and software delivery wisdom. The Docs SIG will host an activity channel for building Spinnaker.io resources. If you want to host an activity, speak up in __#gardening-general__. 
 
 ## Hackathon Schedule (Tentative)
 <a id="sched-embed" href="//sgdays.sched.com/">View the Spinnaker Gardening Days V2: Summer 2020 schedule &amp; directory.</a>
@@ -130,6 +118,33 @@ NO! A top goal of this event: build the community and give participants a chance
 
 ## Should we build our project as a Spinnaker plugin?
 Yes, if possible! Read the [Plugin Users Guide](https://www.spinnaker.io/guides/user/plugin-users/) to learn more about how to use and build Spinnaker plugins.
+
+## How can I get involved in Spinnaker Gardening Days as a Spinnaker Expert? What kind of support will experts provide to attendees?
+So glad you asked! Here are the volunteer role descriptions for Spinnaker Gardening Days Experts. If you would like to volunteer for one of these roles, please post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) on Spinnaker Slack. 
+
+### On-Call Gardener (est 3.5 hrs per shift)
+The On-Call Gardener volunteers to monitor Slack channels during the gardening event and answer questions from participants. When starting their rotation, the On-Call Gardener will add themselves to the @on-call-gardener Slack Team so that participants can ping a convenient handle with questions. When they're done, they'll leave the team so they don't get pinged unnecessarily.
+
+#### On-Call Gardener Tips
+- If you don't know the answer to a question, pull in a fellow Expert that may know. Failing that, point attendees to the appropriate SIG
+- Be courteous to the participants! This is often their first experience to the community, and we want to make sure they come back :)
+- Check-in to the [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) and [#gardening-ineedhelp](https://spinnakerteam.slack.com/archives/CURFZGL2E) channels ocassionally with a friendly message, so that participants have a face to attach to the questions they ask!
+
+### Team Mentor (est 1 hr per weekday)
+A mentor gardener volunteers to guide a hackathon team in its project from decision to demo. Mentor gardeners will receive team assignments on June 14. They should reach out via the team channels in Spinnaker Slack to inquire about project ideas and offer to assist with project selection. After that, at minimum, a mentor gardener should check in with the mentee team every weekday via Slack, June 16-17 and 20-23. Zoom meetings are also an option, and we recommend that mentors spend a hour with their teams each weekday.
+
+#### Team Mentor Tips
+- Set expectations about communication methods and cadence with the team on or before kickoff day (the 16th) and plan some check-ins
+- As a mentor gardener, you’re not expected to know everything. You ARE strongly encouraged to familiarize yourself with those that have Spinnaker expertise, and introduce your team to other experts who can assist when you cannot unblock
+
+### Hands-On Teacher (est 6 hrs)
+A hands-on teacher volunteers to guide a group of attendees in a hands-on training that is developer and contributor-focused. Spinnaker Gardening Days Hands-On Classes aim to get newer Spinnaker contributors comfortable in building Spinnaker and Spinnaker plugins. Teachers will prepare or curate content for a session 90 that provides hands-on practice, and deliver that session during Gardening Days. Teachers may need to prepare an environment for students to work through the course content within. Teachers should expect to provide support to students during the class, and on a limited basis after the class during the hackathon. Teachers should be OK with the class being recorded and shared. Asynchronous classes with no support are also possible at Spinnaker Gardening Days, so reach out in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) if you'd like to offer one.
+
+### Hands-On Teaching Assistant (est 2.5 hrs)
+A hands-on teaching assistant volunteers to support hands-on teachers and attendees during a Spinnaker Gardening Days Hands-On Class. This may include going into breakout rooms with one or more attendees to troubleshoot 1:1 or in smaller groups. Hands-on TAs should be generally familiar with the course material and should reach out to the teacher in advance to sync on content. 
+
+### Match Advisor (est 2.5 hrs)
+A match advisor is responsible for assisting in the formation of teams from hackathon teams based on the skills and interests they share at registration. Match advisors must be available for a half hour orientation discussion the week of July 6th, and for a 2-hour synchronous session on Monday afternoon (6/13) or Tuesday morning (6/14) to form the teams.
 
 ## To Be Announced:
 Look out for a **training schedule** and **training playlists**, a **team and project matching timeline**, a **prize package breakdown**, and more.
