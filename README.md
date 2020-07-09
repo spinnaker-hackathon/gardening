@@ -66,23 +66,12 @@ This second event will take place online on July 16th - 23rd, 2020. [Click here]
 This time, team formation is on us. The registration questions will help us to create balanced teams of 2-5. Then, we'll connect you with your teammates on Spinnaker Slack the week on the hackathon. There, you can share your project ideas. Our team of Spinnaker community experts can also help you choose the perfect project, and will be on call to advise you through the week. Consult and collaborate through blockers.
 
 ## How should I prepare to participate in Spinnaker Gardening?
-1. Register for the event [on Eventbrite](https://go.armory.io/gardening)
+1. [Register for the event](https://go.armory.io/gardening)
 2. [Join Spinnaker Slack](https://join.spinnaker.io) and join the following channels:
-    * **[#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF)**   Make general, public conversation. Please use threads for (welcome!) jokes and side conversations.
+    * **[#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF)**   Ask any questions you have here! Make general, public conversation. Please use threads for (welcome!) jokes and side conversations.
     * **[#gardening-ineedhelp](https://spinnakerteam.slack.com/archives/CURFZGL2E)**   Request help from experts during the hackathon, or ask setup questions before it starts.
-3. Ask your organization to support you in spending time at the event. [Use this flyer](https://s.armory.io/v1ur0KQQ) to highlight the benefits of participating (TL;DR - expert tips, network with fellow Spinnaker devs, free training, exposure for your company).
-4. Visit the [Project Ideas Wiki](https://github.com/spinnaker-hackathon/gardening/wiki/Project-Ideas) in the Gardening Wiki tab. 
-   * Review the ideas. If you have follow-up ideas, questions, or enthusiasm for an idea, join the listed __#gardening-idea-XXXXXX__ channel in Slack to discuss it.
-   * If you have a project idea, follow the instructions to add it. Then, go to Spinnaker Slack and create the Channel Name you specified. 
-5. Read the [Plugin Users Guide](https://www.spinnaker.io/guides/user/plugin-users/) to learn about the new plugin framework for Spinnaker. Project teams should strongly consider building extensions and customizations as plugins, to accelerate progress and make projects easier to maintain. Leverage an existing Gradle build and extension points in Spinnaker's microservices. Look out for more in-depth plugin training soon!
-6. Leverage our ramp-up materials. We will announce in **#gardening-general** and publish the links on this page when they are available. 
-   - Development environment setup training: https://youtu.be/xSZlWf9rUI4
-     - Complete guide on spinnaker.io: https://www.spinnaker.io/community/gardening/dev-environment/
-   - Plugins training - 
-     - Backend development: https://youtu.be/b7BmMY1kR10
-     - Plugins training - Frontend development: https://youtu.be/b7BmMY1kR10
-     - More context is here on the Spinnaker Community Blog: https://blog.spinnaker.io/cant-go-outside-dip-your-toes-in-the-spinnaker-plugins-pool-1076f74003b
-     - Build and Delivery videos will be released soon!
+3. Watch Spinnaker Slack July 14-15 for your Team Match message.
+4. Begin setting up your development environment.
 
 ## Hackathon Schedule (Tentative)
 <a id="sched-embed" href="//sgdays.sched.com/">View the Spinnaker Gardening Days V2: Summer 2020 schedule &amp; directory.</a>
