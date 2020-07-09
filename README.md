@@ -5,8 +5,13 @@
 Learn more about event logistics, what we'll hack on, setting up your development environment, and more in the [Spinnaker Gardening Days](https://www.spinnaker.io/community/gardening/) pages on Spinnaker.io. Got questions that aren't answered here? Post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) on Spinnaker Slack. 
 
 ![Spinnaker Gardening Days Hero](v2Hero.png "Spinnaker Gardening")
+   
+## Attending the Event
+- Main Zoom link for the event will be released to ticket holders prior to our live events
+- All other Zoom meeting links for the event will be available as channel topics in [event Slack channels](https://www.spinnaker.io/community/gardening/slack-map/)
+- [What to hack](https://www.spinnaker.io/community/gardening/what-to-hack/) and [Hackathon logistics](https://www.spinnaker.io/community/gardening/hack-logistics/) guidance available on spinnaker.io
 
-## Pre-training Videos Now Available!
+## Pre-training Videos
 1. Development environment setup training: https://youtu.be/xSZlWf9rUI4
    - Complete guide on spinnaker.io: https://www.spinnaker.io/community/gardening/dev-environment/
 2. Plugins training
@@ -15,16 +20,14 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
    - [Plugin build and release video](https://drive.google.com/file/d/16DIo812nRyan2CDCTuZvsgN4D9yl0Dur/view?usp=sharing)
    - [Plugin delivery video](https://drive.google.com/file/d/1k-MUgmwWFdh6YiozmFw5Y2hGSm84UeTw/view?usp=sharing)
    - More context is here on the [Spinnaker Community Blog](https://blog.spinnaker.io/cant-go-outside-dip-your-toes-in-the-spinnaker-plugins-pool-1076f74003b)
-   
-## Attending the Event
-- Main Zoom link for the event will be released to ticket holders prior to our live events
-- All other Zoom meeting links for the event will be available as channel topics in [event Slack channels](https://www.spinnaker.io/community/gardening/slack-map/)
-- [What to hack](https://www.spinnaker.io/community/gardening/what-to-hack/) and [Hackathon logistics](https://www.spinnaker.io/community/gardening/hack-logistics/) guidance available on spinnaker.io
 
+## How to participate and earn prizes
 
-## Prizes, what prizes?!
-Contribute when you can! We'll reward Spinnaker Gardening Days contributors with two buckets of prizes:
-- **Individual Prizes:** When you register, all contributions you make during the Gardening Days (July 16-23) count towards your contributor points total. Earn points = Earn prizes. [Check out the full list of qualified contributions](https://spinnaker.io/community/gardening/what-to-hack/), including:
+Contribute when you can! When you register, you'll be matched with a team. You will receive your team match via [Spinnaker Slack](join.spinnaker.io) by July 15. All contributions you make in a team project count as individual contributions, and demoing a project enters your team to win a challenge prize package, too!  
+
+Here's the eligibility breakdown for our two buckets of prizes:
+
+- **Individual Prizes:** When you [register](https://go.armory.io/gardening), all contributions you make during the Gardening Days (July 16-23) count towards your contributor points total. Earn points = Earn prizes. [Check out the full list of qualified contributions](https://spinnaker.io/community/gardening/what-to-hack/), including:
   - GitHub activity and contributions
   - Spinnaker tips or recent news items shared in OSS Slack
   - Codelab and training video run-throughs
@@ -32,12 +35,15 @@ Contribute when you can! We'll reward Spinnaker Gardening Days contributors with
   - Assisting in Spinnaker StackOverflow answers
   - Documentation activities
   
+ - **Team Prize Packages:** Teams in each challenge category will be awarded divisible First and Runner Up team prize packages. Read more below.
  
-- **Team Challenge Prizes:** Teams in each challenge category will be awarded First and Runner Up team prize packages
-  - Retrofit 500 Challenge - Fix the most commonly occurring 500 errors
-  - Plugin Challenge - Work with Armory engineers to customize Spinnaker with a plugin
-  - Automate Your SDLC Challenge - Share your Spinnaker with technical content
-  - SIG Challenges - Bring your ideas to Special Session meetings of the Operations SIG, AWS SIG and more to join a SIG team
+## Team Challenges**: 
+
+Gardening Days challenges allow your hackathon project to compete in the category where your team will create the most impact.
+  - **Fix Bugs & Error Messages** _Retrofit 500 Challenge_ - Fix the most commonly occurring 500 errors
+  - **Extend Spinnaker** _Plugin Challenge_ - Work with Armory engineers to customize Spinnaker with a plugin
+  - **Share Content** _Automate Your SDLC Challenge_ - Share your Spinnaker with technical content
+  - **Join a SIG Project** _SIG Challenges_ - Join a SIG team by showing up at a Special Session SIG meeting:
 
 ## What is this and why do I care?
 This is quickstart documentation for the Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is help you get started participating.
