@@ -1,6 +1,8 @@
-# Spinnaker Gardening Days, your open source hackathon
+# Spinnaker Gardening Days, our open source hackathon
 
-[Register here](https://go.armory.io/gardening) to join Spinnaker contributors on July 16-23 to learn and build. The buzz around our inaugural hackathon brought the community together, so we’re launching V2 as a weeklong event with team placement and project matching support, SIG projects, free compute from AWS, a global-friendly schedule, and much more. All are welcome! Automate your SDLC and extend the ecosystem with us.
+[Register here](https://go.armory.io/gardening) to join Spinnaker contributors on July 16-23 to learn and build. All contributions you make in the week, including project and plugin code, documentation, content, videos, issues [and more](https://spinnaker.io/community/gardening/what-to-hack/), add up to points. All contributors will receive prizes based on their point totals, so contribute when you can. When you [sign up](https://go.armory.io/gardening), you'll be matched with a team. Teams can choose a project and compete in one of [four challenge categories](https://spinnaker.io/community/gardening/hack-logistics/#team-challenges). Teams that demo a project will be eligible for prize packages awarded to challenge-winning teams and runners-up in each category. 
+
+Elevate your impact with free compute from AWS, SIG projects in Security, Ops, and more, a global-friendly schedule, and updated documentation and training resources. Everyone's welcome to automate the SDLC and extend the ecosystem with us!
 
 Learn more about event logistics, what we'll hack on, setting up your development environment, and more in the [Spinnaker Gardening Days](https://www.spinnaker.io/community/gardening/) pages on Spinnaker.io. Got questions that aren't answered here? Post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) on Spinnaker Slack. 
 
@@ -37,7 +39,7 @@ Here's the eligibility breakdown for our two buckets of prizes:
   
  - **Team Prize Packages:** Teams in each challenge category will be awarded divisible First and Runner Up team prize packages. Read more below.
  
-## Team Challenges**: 
+## Team Challenges: 
 
 Gardening Days challenges allow your hackathon project to compete in the category where your team will create the most impact.
   - **Fix Bugs & Error Messages** _Retrofit 500 Challenge_ - Fix the most commonly occurring 500 errors
