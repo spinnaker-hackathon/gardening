@@ -35,6 +35,7 @@ Here's the eligibility breakdown for our two buckets of prizes:
   - Assisting in Spinnaker Slack answers
   - Assisting in Spinnaker StackOverflow answers
   - Documentation activities
+  - Filling out our deployment survey at go.armory.io/deployment-survey (you will also receive a charitable donation of your choice in your name)
   
  - **Team Prize Packages:** Teams in each challenge category will be awarded divisible First and Runner Up team prize packages. Read more below.
  
