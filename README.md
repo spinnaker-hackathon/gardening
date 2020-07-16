@@ -14,6 +14,13 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
 - All other Zoom meeting links for the event will be available as channel topics in [event Slack channels](https://www.spinnaker.io/community/gardening/slack-map/)
 - [What to hack](https://www.spinnaker.io/community/gardening/what-to-hack/) and [Hackathon logistics](https://www.spinnaker.io/community/gardening/hack-logistics/) guidance available on spinnaker.io
 
+## Training and Development Environments
+
+We'll offer two sessions of the New Spin Contribution Walkthrough Workshop at the July event. This will provide a managed sandbox environment in AWS EKS, thanks to our compute sponsor, Amazon. Each participant is assigned their own namespace in the cluster, with access to that namespace only. Participants will install Spinnaker there, and then use Telepresence to set up a local development environment for Spinnaker services that is connected to the remote K8S cluster. With that set up, participants will walk through making code changes to Spinnaker services Orca and Deck, using the creation of a new stage as an example.
+
+After the workshops, we will share a recording of the walkthrough with Gardening attendees so that everyone can use the training asynchronously. Attendees can also access the EKS cluster and use the development environment! Just @ mention @Fernando Freire in #gardening-general to request a namespace, and we'll create one for you to develop in.
+
+We're also offering a Plugin Development Workshop. Participants will need to have Spinnaker running in Kubernetes to follow along. The New Spin Workshop environment fulfills this requirement with the sandbox environment, but another Spinnaker environment in K8S will work, too.
 
 ## How to participate and earn prizes
 
