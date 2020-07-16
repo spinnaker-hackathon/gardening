@@ -14,15 +14,6 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
 - All other Zoom meeting links for the event will be available as channel topics in [event Slack channels](https://www.spinnaker.io/community/gardening/slack-map/)
 - [What to hack](https://www.spinnaker.io/community/gardening/what-to-hack/) and [Hackathon logistics](https://www.spinnaker.io/community/gardening/hack-logistics/) guidance available on spinnaker.io
 
-## Pre-training Videos
-1. Development environment setup training: https://youtu.be/xSZlWf9rUI4
-   - Complete guide on spinnaker.io: https://www.spinnaker.io/community/gardening/dev-environment/
-2. Plugins training
-   - [Pluging into the UI video](https://youtu.be/u9NVlG58NYo)
-   - [Pluging into Spinnaker services video](https://youtu.be/b7BmMY1kR10)
-   - [Plugin build and release video](https://drive.google.com/file/d/16DIo812nRyan2CDCTuZvsgN4D9yl0Dur/view?usp=sharing)
-   - [Plugin delivery video](https://drive.google.com/file/d/1k-MUgmwWFdh6YiozmFw5Y2hGSm84UeTw/view?usp=sharing)
-   - More context is here on the [Spinnaker Community Blog](https://blog.spinnaker.io/cant-go-outside-dip-your-toes-in-the-spinnaker-plugins-pool-1076f74003b)
 
 ## How to participate and earn prizes
 
@@ -73,43 +64,21 @@ This time, team formation is on us. The registration questions will help us to c
 3. Watch Spinnaker Slack July 14-15 for your Team Match message.
 4. Begin setting up your development environment.
 
+## Pre-training Videos
+1. Development environment setup training: https://youtu.be/xSZlWf9rUI4
+   - Complete guide on spinnaker.io: https://www.spinnaker.io/community/gardening/dev-environment/
+2. Plugins training
+   - [Pluging into the UI video](https://youtu.be/u9NVlG58NYo)
+   - [Pluging into Spinnaker services video](https://youtu.be/b7BmMY1kR10)
+   - [Plugin build and release video](https://drive.google.com/file/d/16DIo812nRyan2CDCTuZvsgN4D9yl0Dur/view?usp=sharing)
+   - [Plugin delivery video](https://drive.google.com/file/d/1k-MUgmwWFdh6YiozmFw5Y2hGSm84UeTw/view?usp=sharing)
+   - More context is here on the [Spinnaker Community Blog](https://blog.spinnaker.io/cant-go-outside-dip-your-toes-in-the-spinnaker-plugins-pool-1076f74003b)
+
 ## Hackathon Schedule (Tentative)
 <a id="sched-embed" href="//sgdays.sched.com/">View the Spinnaker Gardening Days V2: Summer 2020 schedule &amp; directory.</a>
 
 ![Spinnaker Gardening Days Schedule](v2Schedule.png "Spinnaker Gardening Schedule")
 
-
-### Thursday, July 16th 2020
-- 12:00 noon - 1:00pm PDT SGDays Live Kickoff Event and Community Lunch with Armory.io on Zoom (Joining info to come). We start counting contribution and points for all regions (see above) when this session starts!
-- Live Plug-in Workshop with Armory Engineers - US Pacific Hours - TBA
-- 11pm - midnight PDT Spinnaker After Dark Live session to hang out with the GLOBAL community and collaborate on Zoom
-### Friday, July 17th 2020
-- Casual Hacking & Slacking
-- Live Environment Set Up Workshop with Armory Engineers - TBA
-- 9 am - 10 am PDT Spinnaker Stand-Up Live progress check-in session. Hang out with the community and collaborate on Zoom
-- 11pm - midnight PDT Spinnaker After Dark Live progress check-in session to hang out with the GLOBAL community and collaborate on Zoom
-### Saturday, July 18th 2020
-- Casual Hacking & Slacking (no live events today)
-### Sunday, July 19th, 2020
-- Casual Hacking & Slacking (no live events today)
-### Monday, July 20th 2020
-- Casual Hacking & Slacking
-- 9 am - 10 am PDT Spinnaker Stand-Up Live progress check-in session. Hang out with the community and collaborate on Zoom
-- 11pm - midnight PDT Spinnaker After Dark Live progress check-in session to hang out with the GLOBAL community and collaborate on Zoom
-### Live Hack Day 1 (@11pm PDT): Tuesday, July 21st 2020
-- Casual Hacking & Slacking
-- Wild Community Events TBA!
-- 9 am - 10 am PDT Spinnaker Stand-Up Live progress check-in session. Hang out with the community and collaborate on Zoom
-- 11pm - midnight PDT Spinnaker After Dark on Zoom kicks off our 36 Hour Live Hackathon. Hang out with the GLOBAL community to collaborate and celebrate
-### Live Hack Day 2: Wednesday, July 22nd 2020
-- 36 Hour Live Hackathon continues
-- 9 am - 10 am PDT Spinnaker Stand-Up Live progress check-in session. Hang out with the community and collaborate on Zoom
-- Wild Community Events TBA!
-- Progress Updates - Live Demo Session TBA
-### Live Hack Day 3: Thursday, July 23rd 2020
-- **Contribution window for points/prizes close at 11am PDT
-- 12:00 noon - 1:00pm PDT Demos on Zoom
-- 1:00 pm - 1:30pm PDT Closing Ceremony and Community Retro on Zoom
 
 ## How will you select a winning team?
 This is a collaborative hackathon, so there won't be one winning team. However, community awards and **prizes will be given to all teams that present at the Demo**. After the hackathon ends, a community voting period will happen in Spinnaker Slack to select the **Community's Choice Project**. The Community Choice Project will get recognized at Spinnaker Summit in October. 
