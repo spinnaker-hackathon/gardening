@@ -11,9 +11,9 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
 ## I missed the event kickoff. What happened? Is there a video?
 
 Sad news first: no video, as we had some technical difficulties with our kickoff Zoom call. [Watch the recap we recorded](https://youtu.be/k4-rBm3LZAo), and here's a summary of what we discussed:
-- [Spinnaker Slack](join.spinnaker.io) and GitHub accounts are required for full participation in Gardening Days.
-- To check in to Spinnaker Gardening Days and have your GitHub handle added to the [Contribution Tracking doc](go.armory.io/contributors) and this organization, please use the link go.armory.io/gardening-checkin. When you check in, you will also provide the address to which we should send your swag and prize(s).
-- Big thank you to our compute sponsor, AWS! Thanks to AWS, we are able to provide free compute for hackathon participants in a managed environment. You can [read more about training and development environments](README.md#training-and-development-envrionments) below.
+- [Spinnaker Slack](https://join.spinnaker.io) and GitHub accounts are required for full participation in Gardening Days.
+- To check in to Spinnaker Gardening Days and have your GitHub handle added to the [Contribution Tracking doc](https://go.armory.io/contributors) and this organization, please use the link https://go.armory.io/gardening-checkin. When you check in, you will also provide the address to which we should send your swag and prize(s).
+- Big thank you to our compute sponsor, AWS! Thanks to AWS, we are able to provide free compute for hackathon participants in a managed environment. You can [read more about training and development environments](README.md#training-and-development-environments) below.
 - Spinnaker Gardening Days is a hackathon where attendees are forming teams to work on Spinnaker projects of their choice, and/or making individual contributions to the project.
   - Team projects with output to demo will be judged by our team of experts (on-call gardeners and match advisors), and winners will be chosen in each [challenge category](README.md#team-challenges).
     - Teams and challenges are not set in stone, and it is OK for participants to form new teams, propose projects, and engage with multiple teams to find the right fit. Just be courteous.
@@ -31,7 +31,7 @@ Sad news first: no video, as we had some technical difficulties with our kickoff
     - Join #sig-documentation to help with some exciting projects happening around [spinnaker.io](https://www.spinnaker.io). Ask the SIG how you can help with the Spinnaker refresh project! One great contribution would be to help writing high-quality short descriptions for pages on the site, since our new static generator Hugo defaults to the first 70 characters on the page and that doesn't always provide a good description.
     - Don't forget to check the list of [beginner friendly issues](https://github.com/spinnaker/spinnaker/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22) for issues you're interested in. These are a great way to get started!
   - Check out the [prize details](README.md#prizes).
-- Participants can get one point for filling out the [deployment survey](go.armory.io/deployment-survey). Armory will also make a charitable donation on your behalf to the charity of your choice when you complete it. The survey is anonymous and does not collect any personal data. The questions were developed by AWS and Armory to get more information about how we can improve experiences in using Spinnaker and integrating it with our products.
+- Participants can get one point for filling out the [deployment survey](https://go.armory.io/deployment-survey). Armory will also make a charitable donation on your behalf to the charity of your choice when you complete it. The survey is anonymous and does not collect any personal data. The questions were developed by AWS and Armory to get more information about how we can improve experiences in using Spinnaker and integrating it with our products.
    
 ## Attending Events during Gardening Days
 - Stay tuned for upates to the [schedule](https://spinnaker.io/community/gardening/schedule/) of events.
