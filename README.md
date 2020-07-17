@@ -7,6 +7,21 @@ Elevate your impact with free compute from AWS, SIG projects in Security, Ops, a
 Learn more about event logistics, what we'll hack on, setting up your development environment, and more in the [Spinnaker Gardening Days](https://www.spinnaker.io/community/gardening/) pages on Spinnaker.io. Got questions that aren't answered here? Post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) on Spinnaker Slack. 
 
 ![Spinnaker Gardening Days Hero](v2Hero.png "Spinnaker Gardening")
+
+## I missed the event kickoff. What happened? Is there a video?
+
+Sad news first: no video, as we had some technical difficulties with our kickoff Zoom call. Here's a summary of what we discussed:
+- [Spinnaker Slack](join.spinnaker.io) and GitHub accounts are required for full participation in Gardening Days.
+- To check in to Spinnaker Gardening Days and have your GitHub handle added to the [Contribution Tracking doc](go.armory.io/contributors) and this organization, please use the link go.armory.io/gardening-checkin. When you check in, you will also provide the address to which we should send your swag and prize(s). 
+- Spinnaker Gardening Days is a hackathon where attendees are forming teams to work on Spinnaker projects of their choice, and/or making individual contributions to the project.
+  - Team projects with output to demo will be judged by our team of experts (on-call gardeners and match advisors), and winners will be chosen in each [challenge category](README.md#team-challenges).
+  - Individual contributions include but are not limited to [the ideas on this list](https://spinnaker.io/community/gardening/what-to-hack/). Each contribution is worth one point, and attendees will earn prizes by reaching different [points thresholds](README.md#prizes). __Contributions that are GitHub events will be counted with no additional action from you__ and should appear on the [tracking doc](go.armory.io/contributors) once the batch is processed. When you make other contributions, such as community content (videos, blog posts, Twitch streams) and StackOverflow posts, you will need to post your evidence/link(s) into #gardening-general to receive credit. If non-code contributions were a team effort, tag all participants in the post so that everyone receives points. A few tips:
+    - If you are making __video content__, playlists of shorter videos will earn you more points than single long videos. These are easier for viewers to consume.
+    - To write a __blog post__ with the intent of posting it on the [Spinnaker Community Blog](https://blog.spinnaker.io/), it will be easiest to write it as a Medium post. Event organizers can get your approved blog posts added to the community blog. You are also free to post on your personal or company blog. Ping in #gardening-general if you need assistance duplicating an external blog post on the community blog.
+    - The types of content and contributions you can make are not limited to organizer imaginations. If there is something you'd like to contribute and it hasn't been mentioned, please share in #gardening-general to discuss eligibility.
+  - Check out the (prize details](README.md#prizes).
+- Big thank you to our compute sponsor, AWS! Thanks to AWS, we are able to provide free compute for hackathon participants in a managed environment. You can [read more about training and development environments](README.md#training-and-development-envrionments) below. 
+- Participants can get one point for filling out the [deployment survey](go.armory.io/deployment-survey). Armory will also make a charitable donation on your behalf to the charity of your choice when you complete it. The survey is anonymous and does not collect any personal data. The questions were developed by AWS and Armory to get more information about how we can improve experiences in using Spinnaker and integrating it with our products.
    
 ## Attending Events during Gardening Days
 - Stay tuned for upates to the [schedule](https://spinnaker.io/community/gardening/schedule/) of events.
