@@ -28,6 +28,7 @@ Sad news first: no video, as we had some technical difficulties with our kickoff
     - The types of content and contributions you can make are not limited to organizer imaginations. If there is something you'd like to contribute and it hasn't been mentioned, please share in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) to discuss eligibility.
   - A few ideas for GitHub event contributions:
     - One cool proposed idea is [adding Kayenta support for CloudWatch](https://github.com/spinnaker/spinnaker/issues/5888).
+    - Another exciting idea: [adding support for Microsoft Teams notifications to Echo](https://github.com/spinnaker/spinnaker/issues/5826)
     - Join #sig-documentation to help with some exciting projects happening around [spinnaker.io](https://www.spinnaker.io). Ask the SIG how you can help with the Spinnaker refresh project! One great contribution would be to help writing high-quality short descriptions for pages on the site, since our new static generator Hugo defaults to the first 70 characters on the page and that doesn't always provide a good description.
     - Don't forget to check the list of [beginner friendly issues](https://github.com/spinnaker/spinnaker/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22) for issues you're interested in. These are a great way to get started!
   - Check out the [prize details](README.md#prizes).
