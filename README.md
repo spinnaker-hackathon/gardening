@@ -10,7 +10,7 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
 
 ## I missed the event kickoff. What happened? Is there a video?
 
-Sad news first: no video, as we had some technical difficulties with our kickoff Zoom call. Here's a summary of what we discussed:
+Sad news first: no video, as we had some technical difficulties with our kickoff Zoom call. [Watch the recap we recorded](https://youtu.be/k4-rBm3LZAo), and here's a summary of what we discussed:
 - [Spinnaker Slack](join.spinnaker.io) and GitHub accounts are required for full participation in Gardening Days.
 - To check in to Spinnaker Gardening Days and have your GitHub handle added to the [Contribution Tracking doc](go.armory.io/contributors) and this organization, please use the link go.armory.io/gardening-checkin. When you check in, you will also provide the address to which we should send your swag and prize(s).
 - Big thank you to our compute sponsor, AWS! Thanks to AWS, we are able to provide free compute for hackathon participants in a managed environment. You can [read more about training and development environments](README.md#training-and-development-envrionments) below.
