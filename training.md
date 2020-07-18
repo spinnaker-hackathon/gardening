@@ -1,6 +1,6 @@
 # Training @ Spinnaker Gardening Days
 
-Leverage training resources from past and present Gardening Days to uplevel your Spinnaker skills and get up to speed to contribute.
+Leverage training resources from past and present Gardening Days to uplevel your Spinnaker skills and get up to speed to contribute. Live trainings are recorded for your convenience.
 
 ## July Training Offerings
 
