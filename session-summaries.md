@@ -34,4 +34,5 @@ Sad news first: there is no video from this session, as we had some technical di
 ## April 20 Demo Session
 
 [Live Video](https://youtu.be/citRO_q0Z0c)
+
 See our wrap-up conversation from April Gardening Days, including a demo from the Pulumi team, who built V1 of [this plugin](https://www.pulumi.com/docs/guides/continuous-delivery/spinnaker/) at the event.
