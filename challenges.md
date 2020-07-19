@@ -10,3 +10,5 @@ Each team that demos their project(s) at the end of Gardening Days will compete 
   - Documentation SIG - **Wednesday July 15, 10:30 AM PDT** - Share docs feedback and develop content for Spinnaker.io
   - Security SIG - **Thursday July 16, 11 AM PDT** - Discuss and develop threat models for Spinnaker deployment endpoints
   - Ops SIG - **Thursday July 16, 10 AM PDT** - Build a Spinnaker customization to automate dynamic accounts configuration
+  
+_Visit the [What to Hack](https://spinnaker.io/community/gardening/what-to-hack/) page to learn all the ways to contribute and earn points in Spinnaker Gardening days._
