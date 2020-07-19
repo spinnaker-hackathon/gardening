@@ -41,17 +41,6 @@ Here's the eligibility breakdown for our two buckets of prizes:
   - Filling out our deployment survey at go.armory.io/deployment-survey (you will also receive a charitable donation of your choice in your name)
   
  - **Team Prize Packages:** Teams in each challenge category will be awarded divisible First and Runner Up team prize packages. Read more below.
- 
-## Team Challenges: 
-
-Gardening Days challenges allow your hackathon project to compete in the category where your team will create the most impact.
-- **Fix Bugs & Error Messages** _Retrofit 500 Challenge_ - Fix the most commonly occurring 500 errors
-- **Extend Spinnaker** _Plugin Challenge_ - Work with Armory engineers to customize Spinnaker with a plugin
-- **Share Content** _Automate Your SDLC Challenge_ - Share your Spinnaker with technical content
-- **Join a SIG Project** _SIG Challenges_ - Everyone's welcome! Join a SIG team by showing up at a Special Session SIG meeting:
-  - Documentation SIG - **Wednesday July 15, 10:30 AM PDT** - Share docs feedback and develop content for Spinnaker.io
-  - Security SIG - **Thursday July 16, 11 AM PDT** - Discuss and develop threat models for Spinnaker deployment endpoints
-  - Ops SIG - **Thursday July 16, 10 AM PDT** - Build a Spinnaker customization to automate dynamic accounts configuration
   
 ## What is this and why do I care?
 This is quickstart documentation for the Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is help you get started participating.
