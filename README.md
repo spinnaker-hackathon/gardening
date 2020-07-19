@@ -50,24 +50,18 @@ Right now, humans are more isolated than ever; however, we're coming together vi
 Let's solve together; you'll have fun, we promise!
 
 ## When is the event?
-This second event will take place online on July 16th - 23rd, 2020. [Click here](https://go.armory.io/gardening) to register. Tickets are available for the hackathon and dedicated training workshops. 
+The second Spinnaker Gardening Days will take place online on July 16th - 23rd, 2020. [Click here](https://go.armory.io/gardening) to register. Tickets are available for the hackathon and dedicated training workshops. The third Spinnaker Gardening Days will take place ahead of [Spinnaker Summit](https://www.spinnakersummit.com/), scheduled for the end of October.
 
 ## Teams and First Timers
-This time, team formation is on us. The registration questions will help us to create balanced teams of 2-5. Then, we'll connect you with your teammates on Spinnaker Slack the week on the hackathon. There, you can share your project ideas. Our team of Spinnaker community experts can also help you choose the perfect project, and will be on call to advise you through the week. Consult and collaborate through blockers.
+Gardening Days organizers will help each participant join a team on which they can stay productive and engaged. The registration questions will help us to create balanced starter teams of 2-5. Then, we'll connect you with your teammates on Spinnaker Slack the week on the hackathon. There, you can share your project ideas. Our team of Spinnaker community experts can also help you choose the perfect project, and will be on call to advise you through the week. Consult and collaborate through blockers. Team membership is flexible, and participants are permitted to migrate teams, join multiple teams, or create their own teams. Attendees are encouraged to reach out to organizers (direct message @dnilasor) for assistance with team matching or if concerns or team-fit issues arise. 
 
-## How should I prepare to participate in Spinnaker Gardening?
-1. [Register for the event](https://go.armory.io/gardening)
-2. [Join Spinnaker Slack](https://join.spinnaker.io) and join the following channels:
-    * **[#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF)**   Ask any questions you have here! Make general, public conversation. Please use threads for (welcome!) jokes and side conversations.
-    * **[#gardening-ineedhelp](https://spinnakerteam.slack.com/archives/CURFZGL2E)**   Request help from experts during the hackathon, or ask setup questions before it starts.
-3. Watch Spinnaker Slack July 14-15 for your Team Match message.
-4. Begin setting up your development environment.
+
 
 ## Pre-training Videos
 1. Development environment setup training: https://youtu.be/xSZlWf9rUI4
    - Complete guide on spinnaker.io: https://www.spinnaker.io/community/gardening/dev-environment/
 2. Plugins training
-   - [Pluging into the UI video](https://youtu.be/u9NVlG58NYo)
+   - [Plugin into the UI video](https://youtu.be/u9NVlG58NYo)
    - [Pluging into Spinnaker services video](https://youtu.be/b7BmMY1kR10)
    - [Plugin build and release video](https://drive.google.com/file/d/16DIo812nRyan2CDCTuZvsgN4D9yl0Dur/view?usp=sharing)
    - [Plugin delivery video](https://drive.google.com/file/d/1k-MUgmwWFdh6YiozmFw5Y2hGSm84UeTw/view?usp=sharing)
