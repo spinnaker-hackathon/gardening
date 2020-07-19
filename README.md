@@ -30,7 +30,7 @@ Contribute when you can! When you register, you'll be matched with a team. You w
 
 Here's the eligibility breakdown for our two buckets of prizes:
 
-- **Individual Prizes:** When you [register](https://go.armory.io/gardening), all contributions you make during the Gardening Days (July 16-23) count towards your contributor points total. Earn points = Earn prizes. [Check out the full list of qualified contributions](https://spinnaker.io/community/gardening/what-to-hack/), including:
+- **Individual Prizes:** When you [register](https://go.armory.io/gardening), all contributions you make during the Gardening Days (July 16-23) count towards your [contributor points total]((https://go.armory.io/contributors). Earn points = Earn prizes. [Check out the full list of qualified contributions](https://spinnaker.io/community/gardening/what-to-hack/), including:
   - GitHub activity and contributions
   - Spinnaker tips or recent news items shared in OSS Slack
   - Codelab and training video run-throughs
@@ -40,6 +40,8 @@ Here's the eligibility breakdown for our two buckets of prizes:
   - Filling out our deployment survey at go.armory.io/deployment-survey (you will also receive a charitable donation of your choice in your name)
   
  - **Team Prize Packages:** Teams in each challenge category will be awarded divisible First and Runner Up team prize packages. Read more on the [Prizes page](prizes.md).
+ 
+ _Note that the [contribution tracking sheet](https://go.armory.io/contributors) cannot track GitHub event contributions in real time because of the way the data is collected from GitHub APIs, and will reflect a lag of at least 24 hours. Other contributions are manually tracked via Slack and thus will also lag. Final point tallies will be announced after event conclusion in Slack and via the [Community Blog](https://blog.spinnaker.io/).
  
 ## Frequently Asked Questions
   
