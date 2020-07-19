@@ -1,4 +1,4 @@
-# Prizes!:
+# Prizes!
 
 Prizing scheme for July Gardening Days. Drumroll please...
 
