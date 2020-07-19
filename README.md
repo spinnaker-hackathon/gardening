@@ -55,60 +55,11 @@ The second Spinnaker Gardening Days will take place online on July 16th - 23rd, 
 ## Teams and First Timers
 Gardening Days organizers will help each participant join a team on which they can stay productive and engaged. The registration questions will help us to create balanced starter teams of 2-5. Then, we'll connect you with your teammates on Spinnaker Slack the week on the hackathon. There, you can share your project ideas. Our team of Spinnaker community experts can also help you choose the perfect project, and will be on call to advise you through the week. Consult and collaborate through blockers. Team membership is flexible, and participants are permitted to migrate teams, join multiple teams, or create their own teams. Attendees are encouraged to reach out to organizers (direct message @dnilasor) for assistance with team matching or if concerns or team-fit issues arise. 
 
-
-
-## Pre-training Videos
-1. Development environment setup training: https://youtu.be/xSZlWf9rUI4
-   - Complete guide on spinnaker.io: https://www.spinnaker.io/community/gardening/dev-environment/
-2. Plugins training
-   - [Plugin into the UI video](https://youtu.be/u9NVlG58NYo)
-   - [Pluging into Spinnaker services video](https://youtu.be/b7BmMY1kR10)
-   - [Plugin build and release video](https://drive.google.com/file/d/16DIo812nRyan2CDCTuZvsgN4D9yl0Dur/view?usp=sharing)
-   - [Plugin delivery video](https://drive.google.com/file/d/1k-MUgmwWFdh6YiozmFw5Y2hGSm84UeTw/view?usp=sharing)
-   - More context is here on the [Spinnaker Community Blog](https://blog.spinnaker.io/cant-go-outside-dip-your-toes-in-the-spinnaker-plugins-pool-1076f74003b)
-
-## Hackathon Schedule (Tentative)
-<a id="sched-embed" href="//sgdays.sched.com/">View the Spinnaker Gardening Days V2: Summer 2020 schedule &amp; directory.</a>
-
-![Spinnaker Gardening Days Schedule](v2Schedule.png "Spinnaker Gardening Schedule")
-
-
 ## How will you select a winning team?
 This is a collaborative hackathon, so there won't be one winning team. However, community awards and **prizes will be given to all teams that present at the Demo**. After the hackathon ends, a community voting period will happen in Spinnaker Slack to select the **Community's Choice Project**. The Community Choice Project will get recognized at Spinnaker Summit in October. 
-
 
 ## Do I need to build something production-ready to participate?
 NO! A top goal of this event: build the community and give participants a chance to get to know each other. Your team isn't required to build something that’s fully working. If you get halfway through a project and it no longer makes sense, you will have likely learned a lot and made connections. Stay and hang out! While we're sure to come out with some useful features, fixes, or plugins, this is supposed to be fun. It does not need to be feature complete.
 
 ## Should we build our project as a Spinnaker plugin?
-Yes, if possible! Read the [Plugin Users Guide](https://www.spinnaker.io/guides/user/plugin-users/) to learn more about how to use and build Spinnaker plugins.
-
-## How can I get involved in Spinnaker Gardening Days as a Spinnaker Expert? What kind of support will experts provide to attendees?
-So glad you asked! Here are the volunteer role descriptions for Spinnaker Gardening Days Experts. If you would like to volunteer for one of these roles, please post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) on Spinnaker Slack. 
-
-### On-Call Gardener (est 3.5 hrs per shift)
-The On-Call Gardener volunteers to monitor Slack channels during the gardening event and answer questions from participants. When starting their rotation, the On-Call Gardener will add themselves to the @on-call-gardener Slack Team so that participants can ping a convenient handle with questions. When they're done, they'll leave the team so they don't get pinged unnecessarily.
-
-#### On-Call Gardener Tips
-- If you don't know the answer to a question, pull in a fellow Expert that may know. Failing that, point attendees to the appropriate SIG
-- Be courteous to the participants! This is often their first experience to the community, and we want to make sure they come back :)
-- Check-in to the [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) and [#gardening-ineedhelp](https://spinnakerteam.slack.com/archives/CURFZGL2E) channels ocassionally with a friendly message, so that participants have a face to attach to the questions they ask!
-
-### Team Mentor (est 1 hr per weekday)
-A mentor gardener volunteers to guide a hackathon team in its project from decision to demo. Mentor gardeners will receive team assignments on June 14. They should reach out via the team channels in Spinnaker Slack to inquire about project ideas and offer to assist with project selection. After that, at minimum, a mentor gardener should check in with the mentee team every weekday via Slack, June 16-17 and 20-23. Zoom meetings are also an option, and we recommend that mentors spend a hour with their teams each weekday.
-
-#### Team Mentor Tips
-- Set expectations about communication methods and cadence with the team on or before kickoff day (the 16th) and plan some check-ins
-- As a mentor gardener, you’re not expected to know everything. You ARE strongly encouraged to familiarize yourself with those that have Spinnaker expertise, and introduce your team to other experts who can assist when you cannot unblock
-
-### Hands-On Teacher (est 6 hrs)
-A hands-on teacher volunteers to guide a group of attendees in a hands-on training that is developer and contributor-focused. Spinnaker Gardening Days Hands-On Classes aim to get newer Spinnaker contributors comfortable in building Spinnaker and Spinnaker plugins. Teachers will prepare or curate content for a session 90 that provides hands-on practice, and deliver that session during Gardening Days. Teachers may need to prepare an environment for students to work through the course content within. Teachers should expect to provide support to students during the class, and on a limited basis after the class during the hackathon. Teachers should be OK with the class being recorded and shared. Asynchronous classes with no support are also possible at Spinnaker Gardening Days, so reach out in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) if you'd like to offer one.
-
-### Hands-On Teaching Assistant (est 2.5 hrs)
-A hands-on teaching assistant volunteers to support hands-on teachers and attendees during a Spinnaker Gardening Days Hands-On Class. This may include going into breakout rooms with one or more attendees to troubleshoot 1:1 or in smaller groups. Hands-on TAs should be generally familiar with the course material and should reach out to the teacher in advance to sync on content. 
-
-### Match Advisor (est 2.5 hrs)
-A match advisor is responsible for assisting in the formation of teams from hackathon teams based on the skills and interests they share at registration. Match advisors must be available for a half hour orientation discussion the week of July 6th, and for a 2-hour synchronous session on Monday afternoon (7/13) or Tuesday morning (7/14) to form the teams.
-
-## To Be Announced:
-Look out for a **training schedule** and **training playlists**, a **team and project matching timeline**, a **prize package breakdown**, and more.
+Yes, if it makes sense! Read the [Plugin Users Guide](https://www.spinnaker.io/guides/user/plugin-users/) to learn more about how to use and build Spinnaker plugins.
