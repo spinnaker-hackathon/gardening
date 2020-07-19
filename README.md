@@ -11,23 +11,12 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
    
 ## Attending Events during Gardening Days
 - Stay tuned for upates to the [schedule](https://spinnaker.io/community/gardening/schedule/) of events.
-- Main Zoom link for the event will be released to ticket holders prior to our live events. [Register](https://go.armory.io/gardening) for access.
-- All other Zoom meeting links for the event will be available as channel topics in [event Slack channels](https://www.spinnaker.io/community/gardening/slack-map/)
-- [What to hack](https://www.spinnaker.io/community/gardening/what-to-hack/) and [Hackathon logistics](https://www.spinnaker.io/community/gardening/hack-logistics/) guidance available on spinnaker.io
-
-## Training and Development Environments
-
-We'll offer two sessions of the New Spin Contribution Walkthrough Workshop at the July event. This will provide a managed sandbox environment in AWS EKS, thanks to our compute sponsor, Amazon. Each participant is assigned their own namespace in the cluster, with access to that namespace only. Participants will install Spinnaker there, and then use Telepresence to set up a local development environment for Spinnaker services that is connected to the remote K8S cluster. With that set up, participants will walk through making code changes to Spinnaker services Orca and Deck, using the creation of a new stage as an example.
-
-After the workshops, we will share a recording of the walkthrough with Gardening attendees so that everyone can use the training asynchronously. Attendees can also access the EKS cluster and use the development environment! Just @ mention @Fernando Freire in [#gardening-training](https://spinnakerteam.slack.com/archives/C011CAW95SP) to request a namespace, and we'll create one for you to develop in.
-
-We're also offering a Plugin Development Workshop. Participants will need to have Spinnaker running in Kubernetes to follow along. The New Spin Workshop environment fulfills this requirement with the sandbox environment, but another Spinnaker environment in K8S will work, too.
-
-Questions about training? Ask in [#gardening-training](https://spinnakerteam.slack.com/archives/C011CAW95SP)
+- Main Zoom link and password for the event will be released via email to ticket holders prior to our live events. [Register](https://go.armory.io/gardening) for access.
+- All other Zoom/Jit.si meeting links for the event will be available as channel topics in [event Slack channels](https://www.spinnaker.io/community/gardening/slack-map/)
 
 ## How to participate and earn prizes
 
-Contribute when you can! When you register, you'll be matched with a team. You will receive your team match via [Spinnaker Slack](join.spinnaker.io) by July 15. All contributions you make in a team project count as individual contributions, and demoing a project enters your team to win a challenge prize package, too!  
+Contribute when you can! When you register, you'll be matched with a team. You will receive your team match via [Spinnaker Slack](join.spinnaker.io) by July 15. All contributions you make in a team project count as individual contributions, and demoing a project enters your team to win a challenge prize package, too!  Read more in the [Hackathon logistics](https://www.spinnaker.io/community/gardening/hack-logistics/) page on spinnaker.io
 
 Here's the eligibility breakdown for our two buckets of prizes:
 
@@ -40,26 +29,28 @@ Here's the eligibility breakdown for our two buckets of prizes:
   - Documentation activities
   - Filling out our deployment survey at go.armory.io/deployment-survey (you will also receive a charitable donation of your choice in your name)
   
- - **Team Prize Packages:** Teams in each challenge category will be awarded divisible First and Runner Up team prize packages. Read more below.
+ - **Team Prize Packages:** Teams in each challenge category will be awarded divisible First and Runner Up team prize packages. Read more on the [Prizes page](prizes.md).
+ 
+## Frequently Asked Questions
   
-## What is this and why do I care?
+### What is this and why do I care?
 This is quickstart documentation for the Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is help you get started participating.
 
 Right now, humans are more isolated than ever; however, we're coming together virtually like never before. The culture of dispersed and asynchronous collaboration at the foundation of open source seems more relevant than ever as we must together rise to a totally overwhelming and frightening global challenge. Spinnaker Gardening Days aims to shine a light of fun and hope into our community. We envision a future of great software delivery bringing us closer to the experiences that matter. 
 
 Let's solve together; you'll have fun, we promise!
 
-## When is the event?
+### When is the event?
 The second Spinnaker Gardening Days will take place online on July 16th - 23rd, 2020. [Click here](https://go.armory.io/gardening) to register. Tickets are available for the hackathon and dedicated training workshops. The third Spinnaker Gardening Days will take place ahead of [Spinnaker Summit](https://www.spinnakersummit.com/), scheduled for the end of October.
 
-## Teams and First Timers
+### Is this suitable for first-timers? How will team formation work?
 Gardening Days organizers will help each participant join a team on which they can stay productive and engaged. The registration questions will help us to create balanced starter teams of 2-5. Then, we'll connect you with your teammates on Spinnaker Slack the week on the hackathon. There, you can share your project ideas. Our team of Spinnaker community experts can also help you choose the perfect project, and will be on call to advise you through the week. Consult and collaborate through blockers. Team membership is flexible, and participants are permitted to migrate teams, join multiple teams, or create their own teams. Attendees are encouraged to reach out to organizers (direct message @dnilasor) for assistance with team matching or if concerns or team-fit issues arise. 
 
-## How will you select a winning team?
+### How will you select a winning team?
 This is a collaborative hackathon, so there won't be one winning team. However, community awards and **prizes will be given to all teams that present at the Demo**. After the hackathon ends, a community voting period will happen in Spinnaker Slack to select the **Community's Choice Project**. The Community Choice Project will get recognized at Spinnaker Summit in October. 
 
-## Do I need to build something production-ready to participate?
+### Do I need to build something production-ready to participate?
 NO! A top goal of this event: build the community and give participants a chance to get to know each other. Your team isn't required to build something that’s fully working. If you get halfway through a project and it no longer makes sense, you will have likely learned a lot and made connections. Stay and hang out! While we're sure to come out with some useful features, fixes, or plugins, this is supposed to be fun. It does not need to be feature complete.
 
-## Should we build our project as a Spinnaker plugin?
-Yes, if it makes sense! Read the [Plugin Users Guide](https://www.spinnaker.io/guides/user/plugin-users/) to learn more about how to use and build Spinnaker plugins.
+### Should we build our project as a Spinnaker plugin?
+Yes, if it makes sense! Read the [Plugin Users Guide](https://www.spinnaker.io/guides/user/plugin-users/) to learn more about how to use and build Spinnaker plugins. Folks in the [#sig-platforms](https://spinnakerteam.slack.com/archives/CPHARS3RA) channel and the @on-call-gardener can advise on which projects will work as plugins. More context is also available [here on the Spinnaker Community Blog](https://blog.spinnaker.io/spinnakers-extensibility-reaches-new-heights-with-plugins-645fd73f8d6a).
