@@ -1,4 +1,4 @@
-# Projects, Teams & Ideas @ Spinnaker Gardening Days
+# Projects, Ideas, and Teams @ Spinnaker Gardening Days
 
 A list of Spinnaker project ideas organized into categories for your browsing pleasure. If you find an idea you're interested in and want to learn more, feel free to visit one of the associated team channels listed below, or post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF)
 
