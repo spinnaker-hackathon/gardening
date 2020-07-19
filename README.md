@@ -26,7 +26,7 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
 
 ## How to participate and earn prizes
 
-Contribute when you can! When you register, you'll be matched with a team. You will receive your team match via [Spinnaker Slack](join.spinnaker.io) by July 15. All contributions you make in a team project count as individual contributions, and demoing a project enters your team to win a challenge prize package, too!  Read more in the [Hackathon logistics](https://www.spinnaker.io/community/gardening/hack-logistics/) page on spinnaker.io
+Contribute when you can! When you register, you'll be matched with a team. You will receive your team match via [Spinnaker Slack](join.spinnaker.io) by July 15. All contributions you make in a team project count as individual contributions, and demoing a project enters your team to win a challenge prize package, too! Your individual contribution points will be tracked on the [contribution tracking sheet](https://go.armory.io/contributors). Read more in the [Hackathon logistics](https://www.spinnaker.io/community/gardening/hack-logistics/) page.
 
 Here's the eligibility breakdown for our two buckets of prizes:
 
