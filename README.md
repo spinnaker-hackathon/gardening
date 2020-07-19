@@ -8,6 +8,16 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
 
 ![Spinnaker Gardening Days Hero](v2Hero.png "Spinnaker Gardening")
 
+### [Getting Started](getting-started.md)
+### [Schedule](schedule.md)
+### [Projects, Ideas, and Teams](project-ideas.md)
+### [Training](training.md)
+### [Challenges](challenges.md)
+### [Prizes](prizes.md)
+### [Development Environments](development-environments.md)
+### [Volunteering](expert-volunteers.md)
+
+-------------------------
    
 ## Attending Events during Gardening Days
 - Stay tuned for upates to the [schedule](https://spinnaker.io/community/gardening/schedule/) of events.
