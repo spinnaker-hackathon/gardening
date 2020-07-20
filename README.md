@@ -35,7 +35,7 @@ Here's the eligibility breakdown for our two buckets of prizes:
   - Spinnaker tips or recent news items shared in OSS Slack
   - Codelab and training video run-throughs
   - Assisting in Spinnaker Slack answers
-  - Assisting in Spinnaker StackOverflow answers
+  - Assisting in Spinnaker [StackOverflow](https://stackoverflow.com/questions/tagged/spinnaker) answers
   - Documentation activities
   - Filling out our deployment survey at go.armory.io/deployment-survey (you will also receive a charitable donation of your choice in your name)
   
