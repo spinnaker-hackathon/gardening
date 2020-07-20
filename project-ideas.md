@@ -14,6 +14,7 @@ A list of Spinnaker project ideas organized into categories for your browsing pl
 ## Content Projects
 - End-to-end SDLC from code commit to production using a combination of Jenkins + Spinnaker, including a canary deployment with metrics from Prometheus
   - Visit [#gardening-team-autobots](https://spinnakerteam.slack.com/archives/C016YHBQQLE) to seek collaborators and check progress
+- Interview Ken Chen and Jens Vanderhaeghe of AirBnb about the [UI work they have done for Continuous Integration (CI) workflows in Spinnaker](https://spinnakerteam.slack.com/archives/CH3FMKA3U/p1591653051069400), and write a post about it for the [community blog](https://blog.spinnaker.io/)
 - Create a blog post or video about a Spinnaker webinar or conference talk:
   - 7/21 - The Culture Factor: Trust, Safety, and Continuous Delivery - Learn more about the combination of new technologies and new cultural behaviors that unlock accelerated innovation. Featuring Armory CTO Isaac Mosquera. [Register here](https://cd.foundation/webinars/).
   - 7/22 - Spinnaker @ DevOps Open Source Insights and Innovations - See a demo of the [new Splunk application for Spinnaker](https://splunkbase.splunk.com/app/5135/) from its creator, Chad Tripod. [Register here](https://events.splunk.com/OpenSource22072020?utm_campaign=Global_FY21Q2_Glbl_Armory_OnlineEvnt_AppDev_EN_VirtEvnt_PromoE_Jun20&utm_content=Open%20Source%20Insights).
