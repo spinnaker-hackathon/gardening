@@ -21,7 +21,7 @@ A list of Spinnaker project ideas organized into categories for your browsing pl
   - Browse the [Spinnaker.Live Playlist](https://www.youtube.com/playlist?list=PL4yLrwUObNkvO80Bjln8_DJXxQNSYrtEs) for interesting talks to write about.
 
 ## Plugins
-- [Add features to the [Nomad Plugin](https://github.com/hashicorp/nomad-spinnaker) to introduce custom stages into orca that support deployment of workloads to Nomad clusters
+- Add features to the [Nomad Plugin](https://github.com/hashicorp/nomad-spinnaker) to introduce custom stages into orca that support deployment of workloads to Nomad clusters
   - Visit [#gardening-team-autobots](https://spinnakerteam.slack.com/archives/C017JTAGGKB) to seek collaborators and check progress
 - [Plugin to trigger pipelines on Azure blob storage artifacts](https://github.com/spinnaker/spinnaker/issues/3776)
   - Visit [#gardening-team-fresh](https://spinnakerteam.slack.com/archives/C017CF13A5A) to seek collaborators and check progress
