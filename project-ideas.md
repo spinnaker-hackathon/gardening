@@ -9,7 +9,7 @@ A list of Spinnaker project ideas organized into categories for your browsing pl
 
 ## Spin CLI
 - [Extending project functionality for the Spin CLI](https://trello.com/b/TZEErakm/extending-project-functionality-for-the-spin-cli)
-  - Visit [#gardening-team-spin-cli](https://spinnakerteam.slack.com/archives/C016P8K15AB) to seek collaborators and check progress
+  - Visit [#gardening-team-josephine-garis](https://spinnakerteam.slack.com/archives/C016P8K15AB) to seek collaborators and check progress
 
 ## Content Projects
 - End-to-end SDLC from code commit to production using a combination of Jenkins + Spinnaker, including a canary deployment with metrics from Prometheus
