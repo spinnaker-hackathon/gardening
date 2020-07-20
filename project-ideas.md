@@ -50,10 +50,10 @@ These may or may not be implementable as plugins
 ## Frontend UI/UX
 Visit [#sig-ui](https://spinnakerteam.slack.com/archives/CH3FMKA3U) to seek collaborators and discuss ongoing UI/UX projects 
 
-- Many buttons need tool tips, especially when the window is so narrow that buttons are shrunk to just icons with no visible label
-- Make the pipeline frame responsive to window width so that users can see more than 9 stages
-- Investigate why the Create button is grayed out in the new application form.
-- Darken the add stage button color, so it looks less gray, (may be in a style guide, or use CSS)
+- Many buttons need tool tips, especially when the window is so narrow that buttons are shrunk to just icons with no visible label.
+- Make the pipeline frame responsive to window width so that users can see more than 9 stages.
+- Display why the Create button is grayed out in the new application form, so users know what they need to add or fix.
+- Darken the add stage button color, so it looks less gray, (it may be guided by a style guide, or maybe a CSS value).
 
 
 
