@@ -55,5 +55,9 @@ Visit [#sig-ui](https://spinnakerteam.slack.com/archives/CH3FMKA3U) to seek coll
 - Display why the Create button is grayed out in the new application form, so users know what they need to add or fix.
 - Darken the add stage button color, so it looks less gray, (it may be guided by a style guide, or maybe a CSS value).
 
+## Contributor Experience
+- Create a visualization of a map of the world with the number of Spinnaker contributors from different countries
+- Create a contribution tracking app more personal than DevStats. The app could show basic stats as associated with GitHub usernames (similar to devstats), but also include a login experience that allows users to access a more full-featured version of the app, in which they can "claim" the contributor profile attached to their GitHub account, add their name and link it to their linked-in profile, and show off all their contributions to CDF projects (Jenkins, Tekton, Screwdriver, and Spinnaker). Lots of different ways to get data from GitHub!
+
 
 
