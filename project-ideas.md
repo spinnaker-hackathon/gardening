@@ -39,6 +39,7 @@ These may or may not be implementable as plugins
   - Visit [#gardening-team-crickets](https://spinnakerteam.slack.com/archives/C017489TB8B) to seek collaborators and check progress
 - [Add support for AWS CloudWatch metrics in Kayenta](https://github.com/spinnaker/spinnaker/issues/5888)
   - Visit [#gardening-team-crickets](https://spinnakerteam.slack.com/archives/C017489TB8B) to seek collaborators and check progress
+- [Add support for AppDynamics metrics in Kayenta](https://github.com/spinnaker/kayenta/issues/770)
 
 ## Bugfixes & Service Improvements
 - [Fix invalid YAML deletion from Manifest Source field upon save](https://github.com/spinnaker/spinnaker/issues/5357)
