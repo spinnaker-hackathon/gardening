@@ -47,6 +47,8 @@ These may or may not be implementable as plugins
 - Add ingress URLs to the Infrastructure tab
   - Service URLs are shown in the load balancers area, but not ingress URLs. It would be really useful for end users to have the ingress right there to access the deployed app if needed, since many web apps don't use the load balancer URL, but the ingress instead.
   - Ping @AbdulBasit in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) for context
+- Create a Helm templating library for generating Spinnaker pipeline templates
+  - Ping @Suhrud in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) for context and design details
   
 ## Frontend UI/UX
 Visit [#sig-ui](https://spinnakerteam.slack.com/archives/CH3FMKA3U) to seek collaborators and discuss ongoing UI/UX projects 
