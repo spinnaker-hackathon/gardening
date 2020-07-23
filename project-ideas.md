@@ -52,7 +52,7 @@ Don't forget to check the list of [beginner-friendly issues](https://github.com/
   - Ping @AbdulBasit in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) for context
 - Create a Helm templating library for generating Spinnaker pipeline templates
   - Ping @Suhrud in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) for context and design details
-- Create a Helm chart for installing Spinnaker that uses the Operator (instead of Halyard)
+- Create a "official" candidate Helm chart for installing Spinnaker that uses the Operator (instead of Halyard)
   - Default files (Note: NOT an implementation) have been added to Armory's open source [spinnaker-operator](https://github.com/armory/spinnaker-operator/tree/master/deploy/operator/helm) repo, and Armory is seeking contributions in this area
   
 ## Frontend UI/UX
