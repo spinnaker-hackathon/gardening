@@ -42,10 +42,11 @@ These may or may not be implementable as plugins
 - [Add support for AppDynamics metrics in Kayenta](https://github.com/spinnaker/kayenta/issues/770)
 
 ## Bugfixes
-
-## Service Improvements
+Don't forget to check the list of [beginner-friendly issues](https://github.com/spinnaker/spinnaker/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22) for good bugfixes to start with
 - [Fix invalid YAML deletion from Manifest Source field upon save](https://github.com/spinnaker/spinnaker/issues/5357)
   - Visit [#gardening-team-issue-5357](https://spinnakerteam.slack.com/archives/C011ALS3F41) to seek collaborators and check progress
+
+## Service Improvements
 - Add ingress URLs to the Infrastructure tab
   - Service URLs are shown in the load balancers area, but not ingress URLs. It would be really useful for end users to have the ingress right there to access the deployed app if needed, since many web apps don't use the load balancer URL, but the ingress instead.
   - Ping @AbdulBasit in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) for context
