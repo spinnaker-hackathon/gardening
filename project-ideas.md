@@ -41,7 +41,9 @@ These may or may not be implementable as plugins
   - Visit [#gardening-team-crickets](https://spinnakerteam.slack.com/archives/C017489TB8B) to seek collaborators and check progress
 - [Add support for AppDynamics metrics in Kayenta](https://github.com/spinnaker/kayenta/issues/770)
 
-## Bugfixes & Service Improvements
+## Bugfixes
+
+## Service Improvements
 - [Fix invalid YAML deletion from Manifest Source field upon save](https://github.com/spinnaker/spinnaker/issues/5357)
   - Visit [#gardening-team-issue-5357](https://spinnakerteam.slack.com/archives/C011ALS3F41) to seek collaborators and check progress
 - Add ingress URLs to the Infrastructure tab
@@ -49,6 +51,8 @@ These may or may not be implementable as plugins
   - Ping @AbdulBasit in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) for context
 - Create a Helm templating library for generating Spinnaker pipeline templates
   - Ping @Suhrud in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) for context and design details
+- Create a Helm chart for installing Spinnaker that uses the Operator (instead of Halyard)
+  - Default files (Note: NOT an implementation) have been added to Armory's open source [spinnaker-operator](https://github.com/armory/spinnaker-operator/tree/master/deploy/operator/helm) repo, and Armory is seeking contributions in this area
   
 ## Frontend UI/UX
 Visit [#sig-ui](https://spinnakerteam.slack.com/archives/CH3FMKA3U) to seek collaborators and discuss ongoing UI/UX projects 
