@@ -12,6 +12,9 @@ A list of Spinnaker project ideas organized into categories for your browsing pl
   - Visit [#gardening-team-josephine-garis](https://spinnakerteam.slack.com/archives/C016P8K15AB) to seek collaborators and check progress
 
 ## Content Projects
+- Create and record a Spinnaker Twitch stream that live-demonstrates a small process or workflow
+  - [Here's an example from the Tekton community](https://www.youtube.com/watch?v=LTRE8a22tio)
+  - Spinnaker Twitch content should be posted to the Continuous Delivery Foundation account for maxiumum exposure
 - End-to-end SDLC from code commit to production using a combination of Jenkins + Spinnaker, including a canary deployment with metrics from Prometheus
   - Visit [#gardening-team-autobots](https://spinnakerteam.slack.com/archives/C016YHBQQLE) to seek collaborators and check progress
 - Interview Ken Chen and Jens Vanderhaeghe of AirBnb about the [UI work they have done for Continuous Integration (CI) workflows in Spinnaker](https://spinnakerteam.slack.com/archives/CH3FMKA3U/p1591653051069400), and write a post about it for the [community blog](https://blog.spinnaker.io/)
