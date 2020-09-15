@@ -1,5 +1,7 @@
 # Team Challenges
 
+_Stay tuned for updates on challenges for Summit Gardening Days 10/19-11/12. Happen to work at a company that cares a lot about software delivery? Why not ask them to sponsor prizes and challenges at Gardening Days? DM @dnilasor in [Spinnaker Slack](http://join.spinnaker.io) to learn more._
+
 Each team that demos their project(s) at the end of Gardening Days will compete for a team prize package in the challenge category that's the best fit. Challenge categories allow your hackathon project to compete in the category where your team will create the most impact. There are no strict eligibility requirements for what "counts" as a particular category, other than that SIG teams must be SIG-sponsored through active engagement in the SIG Slack channel.
 
 ### Challenge Categories
