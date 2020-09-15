@@ -10,7 +10,7 @@ The On-Call Gardener volunteers to monitor Slack channels during the gardening e
 - Be courteous to the participants! This is often their first experience to the community, and we want to make sure they come back :)
 - Check-in to the [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) and [#gardening-ineedhelp](https://spinnakerteam.slack.com/archives/CURFZGL2E) channels ocassionally with a friendly message, so that participants have a face to attach to the questions they ask!
 
-### Team Mentor (est 1 hr per weekday)
+### Team Mentor (est 4 hr per week)
 A mentor gardener volunteers to guide a hackathon team in its project from decision to demo. Mentor gardeners will receive team assignments on June 14. They should reach out via the team channels in Spinnaker Slack to inquire about project ideas and offer to assist with project selection. After that, at minimum, a mentor gardener should check in with the mentee team every weekday via Slack, June 16-17 and 20-23. Zoom meetings are also an option, and we recommend that mentors spend a hour with their teams each weekday.
 
 #### Team Mentor Tips
