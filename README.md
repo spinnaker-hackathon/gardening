@@ -4,7 +4,7 @@
 
 Elevate your impact with free compute from AWS, SIG projects, a global-friendly schedule, first-class documentation and training resources, and a friendly team of advocates and volunteers to greet and assist you. Everyone's welcome to automate the SDLC and extend the ecosystem with us!
 
-Learn more about event logistics, what we'll hack on, setting up your development environment, and more in the [Spinnaker Gardening Days](https://www.spinnaker.io/community/gardening/) pages on Spinnaker.io. Got questions that aren't answered here? Post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) on Spinnaker Slack. 
+Learn more about event logistics, what we'll hack on, setting up your development environment, and more in the [Spinnaker Gardening Days](https://www.spinnaker.io/community/gardening/) pages on Spinnaker.io. Got questions that aren't answered here? Post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) on Spinnaker Slack.
 
 ![Spinnaker Gardening Days Hero](v2Hero.png "Spinnaker Gardening")
 
@@ -15,7 +15,8 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
 ### [Challenges](challenges.md)
 ### [Prizes](prizes.md)
 ### [Development Environments](development-environments.md)
-### [Volunteering](expert-volunteers.md)
+### [Volunteering - Get involved!](expert-volunteers.md)
+### [Sponsor a Gardening Days Challenge or Activity](https://go.armory.io/summit-gardening)
 
 -------------------------
    
