@@ -18,15 +18,10 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
 ### [Sponsor a Gardening Days Challenge or Activity](https://go.armory.io/summit-gardening)
 
 -------------------------
-   
-## Attending Events during Gardening Days
-- Stay tuned for upates to the [schedule](https://spinnaker.io/community/gardening/schedule/) of events.
-- Main Zoom link and password for the event will be released via email to ticket holders prior to our live events. [Register](https://go.armory.io/gardening) for access.
-- All other Zoom/Jit.si meeting links for the event will be available as channel topics in [event Slack channels](https://www.spinnaker.io/community/gardening/slack-map/)
 
 ## How to participate and earn prizes
 
-Contribute when you can! When you register, you'll be matched with a team. If you have registered, you will receive your team match via [Spinnaker Slack](http://join.spinnaker.io) by October 15. If you need assistance with registration, team matching, or planning your participation, you may inquire in the [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) channel. 
+Contribute when you can! When you [register](https://events.linuxfoundation.org/spinnaker-summit/register/), you'll be matched with a team. If you have registered, you will receive your team match via [Spinnaker Slack](http://join.spinnaker.io) by October 15. If you need assistance with registration, team matching, or planning your participation, you may inquire in the [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) channel. 
 
 Time to double-dip: All contributions you make in a team project count as individual contributions, and demoing a project enters your team to win a challenge prize package, too! Your individual contribution points will be tracked on the [contribution tracking sheet](https://go.armory.io/contributors). Read more in the [Hackathon logistics](https://www.spinnaker.io/community/gardening/hack-logistics/) page.
 
