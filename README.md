@@ -43,7 +43,7 @@ Here's the eligibility breakdown for our two buckets of prizes:
 ## Frequently Asked Questions
   
 ### What is this and why do I care?
-This is quickstart documentation for the Spinnaker Gardening Days #communityHack, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The goal of this doc is help you get started participating.
+This is quickstart documentation for the Spinnaker Gardening Days, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The third and latest Gardening Days will be held at our virtual Spinnaker Summit 10/10-11/12. The goal of this doc is help you get started participating.
 
 Right now, humans are more isolated than ever; however, we're coming together virtually like never before. The culture of dispersed collaboration at the foundation of open source seems more relevant than ever, as we must together rise to totally overwhelming and frightening global challenges. Spinnaker Gardening Days aims to shine a light of fun and hope into our community. We envision a future of great software delivery bringing us closer to the experiences that matter. 
 
