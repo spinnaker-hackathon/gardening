@@ -1,5 +1,7 @@
 # Prizes!
 
+_Stay tuned for updates on prizes for Summit Gardening Days 10/19-11/12. Happen to work at a company that cares a lot about software delivery? Why not ask them to sponsor prizes and challenges at Gardening Days? DM @dnilasor in [Spinnaker Slack](http://join.spinnaker.io) to learn more_
+
 Prizing scheme for July Gardening Days. Drumroll please...
 
 ### Individual Prize Tiers
