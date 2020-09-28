@@ -15,10 +15,14 @@ Let these 6 stories, scoped by GitHub, Armory, and community engineers, inspire 
 - [GitHub Actions automation to improve the experience for Netlify administrators eliciting community PRs](https://github.com/spinnaker-hackathon/github-actions/blob/master/github-actions-netlify/README.md)
  Look out for opportunities to collaborate with @bdougie and the GitHub Actions community at Gardening Days!
  
- ### The Armory Challemge
+ ### The Armory Challenge
 _Stay tuned for stories & scope for the Armory Challenge's First and Second Prizes. It's hard to go wrong with any of [these ideas](https://github.com/spinnaker-hackathon/gardening/blob/master/project-ideas.md), though!_
+
+### Share Your Spinnaker Challenge
+Create and share video, blog, and social content for the Spinnaker community.
 
 ### The SIG Challenge
 Join a SIG team by showing up at a [SIG meeting](https://github.com/spinnaker/governance) or joining the [Slack channel](http://join.spinnaker.io) of your favorite SIG (channel names begin with ```#sig-```) to propose and discuss a project. Talk about the SIGs priorities and needs, and identify projects that could be scoped to be completed by mid-November. Reach out in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) or recruit from your company if you have ideas and need teammates.
+
   
 _Visit the [What to Hack](https://spinnaker.io/community/gardening/what-to-hack/) page to learn all the ways to contribute and earn points in Spinnaker Gardening days._
