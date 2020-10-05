@@ -1,6 +1,6 @@
 # Expert Volunteers at Spinnaker Gardening Days
 
-Here are the volunteer role descriptions for Spinnaker Gardening Days Experts. If you would like to volunteer for one of these roles for the Summit Gardening event 10/19-11/12, please post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) on Spinnaker Slack. You can sign up directly for a role or shift on the [sign-up sheet](https://go.armory.io/gardening-experts).
+Here are the volunteer role descriptions for Spinnaker Gardening Days Experts. If you would like to volunteer for one of these roles for the Summit Gardening event 10/19-11/12, please post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) on Spinnaker Slack. You can sign up directly for a role or shift on the [sign-up sheet](https://go.armory.io/gardening-experts). If you have any questions, please reach out to @dnilasor on Spinnaker Slack.
 
 ### On-Call Gardener (est 3.5 hrs per shift)
 The On-Call Gardener volunteers to monitor Slack channels during the gardening event and answer questions from participants. When starting their rotation, the On-Call Gardener will add themselves to the @on-call-gardener Slack Team so that participants can ping a convenient handle with questions. When they're done, they'll leave the team so they don't get pinged unnecessarily. On-call gardeners can provide direct assistance or triage, and so can have engineering expertise or be non-technical.
