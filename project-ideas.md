@@ -10,6 +10,9 @@ A list of Spinnaker project ideas organized into categories for your browsing pl
 ## Spin CLI
 - [Extending project functionality for the Spin CLI](https://trello.com/b/TZEErakm/extending-project-functionality-for-the-spin-cli)
   - Visit [#gardening-team-josephine-garis](https://spinnakerteam.slack.com/archives/C016P8K15AB) to seek collaborators and check progress
+  
+## GitHub Actions
+- [Add support for GitHub Actions CI integration](https://github.com/spinnaker-hackathon/github-actions)
 
 ## Content Projects
 - Create and record a Spinnaker Twitch stream that live-demonstrates a small process or workflow
