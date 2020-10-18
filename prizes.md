@@ -48,7 +48,7 @@ Earn a [Sphero Mini](https://sphero.com/products/sphero-mini) programmable ball,
 Earn a [Tello](https://store.dji.com/product/tello?vid=38421), the "most fun drone ever." It helps users learn about drones with coding education.
 
 #### Switch Hacker = 150 points
-Earn a [Nintendo Switch Lite](https://www.nintendo.com/switch/lite/), coveted COVID gaming companion, to unlock portable multiplayer fun. OR SWITCH IT UP and choose an alternative prize:
+Earn a [Nintendo Switch Lite](https://www.nintendo.com/switch/lite/), coveted COVID gaming companion, to unlock portable multiplayer fun. OR SWITCH IT UP and choose an alternative prize (we'll be in touch):
  - [Smart Lighting Panel Rhythm Edition](https://www.uncommongoods.com/product/smart-lighting-panels#430390000002)
  - [Smart Garden 9](https://www.clickandgrow.com/products/the-smart-garden-9)
  - Bose Audio Sunglasses, [Alto](https://www.bose.com/en_us/products/frames.html) or [Rondo](https://www.bose.com/en_us/products/frames/bose-frames-rondo.html#v=bose_frames_rondo_black_us) style
