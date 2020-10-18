@@ -12,7 +12,7 @@ Update Spinnaker core, fix bugs, build new plugins or other extensions, or creat
 - Second prize package = Team receives $750, divided among teammates
 - Honorable mention prize packages = If applicable, teams receive $500, divided among teammates
 
-## Share Your Spinnaker Challenge
+### Share Your Spinnaker Challenge
 Create and share video, blog, and social content for the Spinnaker community. Prizes sponsored by your friends at Armory.
 - First prize package = Team receives $1000, divided among teammates
 - Second prize package = Team receives $750, divided among teammates
