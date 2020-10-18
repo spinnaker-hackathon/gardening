@@ -42,11 +42,11 @@ Global Standup & Office Hours
 - November 10 9:00 AM PT
 - November 11 11:00 PM PT
 
-Open Roadmap Planning
-- November 11 11:00 AM PT
-
 Contributor Experience SIG Kickoff
 - November 10 10:00 AM PT
+
+Open Roadmap Planning
+- November 11 11:00 AM PT
 
 OSS SDLC Brunch & Learn
 - November 11 10:00 AM PT
