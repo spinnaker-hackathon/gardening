@@ -4,7 +4,7 @@ Prizing scheme for Summit Gardening Days. Drumroll please...
 
 ## Team Prize Packages
 
-We will reward active members of winning teams according to the categories below. Eligible projects must be submitted in each category listed in order for prizes to be awarded. _All prizes can be substituted with charitable donations upon request. Hackathon organizers will resolve any eligibility disputes that arise according to our discretion. We promise to fulfill the rewards listed below, but reserve the right to award additional prizes if overwhelmed with eligible submissions ;)_
+We will reward active members of winning teams according to the categories below. All monetary prizes will be awarded as Amazon Gift Cards unless otherwise noted. Eligible projects must be submitted in each category listed in order for prizes to be awarded. _All prizes can be substituted with charitable donations upon request. Hackathon organizers will resolve any eligibility disputes that arise according to our discretion. We promise to fulfill the rewards listed below, but reserve the right to award additional prizes if overwhelmed with eligible submissions ;)_
 
 ### Spinnaker Challenge
 - First prize package = Team receives $1000, divided among teammates
