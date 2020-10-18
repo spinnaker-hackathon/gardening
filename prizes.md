@@ -7,12 +7,19 @@ Prizing scheme for Summit Gardening Days. Drumroll please...
 We will reward active members of winning teams according to the categories below. All monetary prizes will be awarded as Amazon Gift Cards unless otherwise noted. Eligible projects must be submitted in each category listed in order for prizes to be awarded. _All prizes can be substituted with charitable donations upon request. Hackathon organizers will resolve any eligibility disputes that arise according to our discretion. We promise to fulfill the rewards listed below, but reserve the right to award additional prizes if overwhelmed with eligible submissions ;)_
 
 ### Spinnaker Challenge
+Update Spinnaker core, fix bugs, build new plugins or other extensions, or create proposed features. Prizes sponsored by your friends at Armory.
 - First prize package = Team receives $1000, divided among teammates
 - Second prize package = Team receives $750, divided among teammates
-- Third prize package = Team receives $500, divided among teammates
-- Honorable mention prize package = Team receives $300, divided among teammates
+- Honorable mention prize packages = If applicable, teams receive $500, divided among teammates
 
-### GitHub Actions Challenge
+## Share Your Spinnaker Challenge
+Create and share video, blog, and social content for the Spinnaker community. Prizes sponsored by your friends at Armory.
+- First prize package = Team receives $1000, divided among teammates
+- Second prize package = Team receives $750, divided among teammates
+- Honorable mention prize packages = Teams receive $500, divided among teammates
+
+### GitHub Challenge
+Solve for GitHub, Spinnaker, and Open Source, guided by [our expert suggestions](https://github.com/spinnaker-hackathon/gardening/blob/master/challenges.md#the-github-challenge).
 - Winner's prize package = Team receives $500, divided among teammates
 
 ### Sumo Logic Challenge
@@ -25,7 +32,7 @@ We will reward active members of winning teams according to the categories below
 - Winner's prize package = Team receives $500, divided among teammates
 
 ## Individual Prize Tiers
-You'll receive something fun to play with if your points total crosses these thresholds. You'll earn one point every time you complete an item on [this list](https://spinnaker.io/community/gardening/what-to-hack/), and your contributions to team projects count. Points will be [tracked here](https://docs.google.com/spreadsheets/d/1kt9MJexQTPb1AuC5mQXZBX-NBZf5XsSwBBpy3WJ_fJk/edit?usp=sharing) on the Spinnaker Gardening Days Contributors tab and updated in batches throughout the week. _FYI: Gaming the points system won't work and will result in disqualification, so please don't try, just have fun with us!_ We'll ship your prizes along with your Gardening Tshirt. Be patient; shipping is bananaballs right now! 
+You'll receive something fun to play with if your points total crosses these thresholds. You'll earn one point every time you complete an item on [this list](https://spinnaker.io/community/gardening/what-to-hack/), and your contributions to team projects count. Points will be [tracked here](https://docs.google.com/spreadsheets/d/1kt9MJexQTPb1AuC5mQXZBX-NBZf5XsSwBBpy3WJ_fJk/edit?usp=sharing) on the Spinnaker Gardening Days Contributors tab and updated in batches throughout the week. _FYI: Gaming the points system won't work and will result in disqualification, so please don't try, just have fun with us!_ We'll ship your prizes along with your Gardening Tshirt. Be patient; shipping is bananaballs right now! Prizes sponsored by your friends at Armory.
 
 #### Hedgehog Hacker = 25 points
 Every Gardening participant who earns 25 points will receive a [crystal-growing hedgehog](https://youtu.be/W2rK8KdrDkY). Just, because.
