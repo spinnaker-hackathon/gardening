@@ -2,6 +2,7 @@
 
 [Register here](https://events.linuxfoundation.org/spinnaker-summit/register/) to join project contributors October 19 - November 12 to learn and build at Spinnaker Summit. 
 ![Summit Gardening Days Hero](Summit-Gardening-Banner.png "Summit Gardening")
+### [Register](https://events.linuxfoundation.org/spinnaker-summit/register/)
 ### [Getting Started](getting-started.md)
 ### [Schedule](schedule.md)
 ### [Projects, Ideas, and Teams](project-ideas.md)
