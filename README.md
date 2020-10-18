@@ -5,6 +5,7 @@
 ### [Getting Started](getting-started.md)
 ### [Schedule](schedule.md)
 ### [Projects, Ideas, and Teams](project-ideas.md)
+### [Judging and Points Eligibility & Tracking](points.md)
 ### [Training](training.md)
 ### [Challenges](challenges.md)
 ### [Prizes](prizes.md)
