@@ -36,7 +36,7 @@ Here's the eligibility breakdown for our two buckets of prizes:
   - Documentation activities
   - Filling out our deployment survey at go.armory.io/deployment-survey (you will also receive a charitable donation of your choice in your name)
   
- - **Team Prize Packages:** Teams in each challenge will be awarded divisible First and Runner Up team prize packages. Read more on the [Prizes page](prizes.md).
+ - **Team Prize Packages:** Winning teams will be awarded divisible prize packages. Read more on the [Prizes page](prizes.md).
  
  _Note that the [contribution tracking sheet](https://go.armory.io/contributors) cannot track GitHub event contributions in real time because of the way the data is collected from GitHub APIs, and will reflect a lag of at least 24 hours. Other contributions are manually tracked via Slack and thus will also lag. Final point tallies will be announced after event conclusion in Slack and via the [Community Blog](https://blog.spinnaker.io/)._
  
