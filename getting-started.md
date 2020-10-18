@@ -1,6 +1,6 @@
 # Getting started as a Spinnaker Gardener
 
-Follow these steps to engage in Spinnaker Gardening:
+Follow these steps to engage in Spinnaker Summit Gardening:
 1. [Join Spinnaker Slack](http://join.spinnaker.io)
 1. [Register for the hackathon](https://go.armory.io/gardening) - you need to provide your Spinnaker Slack display name to register.
 1. Check out the [Projects, Ideas, and Teams](project-ideas.md) page for a current listing of all the ideas and projects on the table, and the teams that have discussed or begun working on them.
