@@ -1,6 +1,6 @@
 # Prizes!
 
-Prizing scheme for Summit Gardening Days. This event has two prize buckets: [team prizes](#team-prize-packages) and [individual prizes](#individual-prize-tiers).You can win both! Drumroll please...
+Prizing scheme for Summit Gardening Days. This event has two prize buckets: [team prizes](#team-prize-packages) and [individual prizes](#individual-prize-tiers). You can win both! Drumroll please...
 
 ## Team Prize Packages
 
