@@ -41,13 +41,6 @@ Here's the eligibility breakdown for our two buckets of prizes:
  _Note that the [contribution tracking sheet](https://go.armory.io/contributors) cannot track GitHub event contributions in real time because of the way the data is collected from GitHub APIs, and will reflect a lag of at least 24 hours. Other contributions are manually tracked via Slack and thus will also lag. Final point tallies will be announced after event conclusion in Slack and via the [Community Blog](https://blog.spinnaker.io/)._
  
 ## Frequently Asked Questions
-  
-### What is this and why do I care?
-This is quickstart documentation for the Spinnaker Gardening Days, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The third and latest Gardening Days will be held at our virtual Spinnaker Summit 10/10-11/12. The goal of this doc is help you get started participating.
-
-Right now, humans are more isolated than ever; however, we're coming together virtually like never before. The culture of dispersed collaboration at the foundation of open source seems more relevant than ever, as we must together rise to totally overwhelming and frightening global challenges. Spinnaker Gardening Days aims to shine a light of fun and hope into our community. We envision a future of great software delivery bringing us closer to the experiences that matter. 
-
-Let's solve together; you'll have fun, we promise!
 
 ### When is the event?
 The third Spinnaker Gardening Days will take place online October 19th - November 12th, 2020. [Click here](https://go.armory.io/gardening) to register. Tickets are available for the hackathon and dedicated training workshops. The third Spinnaker Gardening Days will take place ahead of [Spinnaker Summit](https://www.spinnakersummit.com/), scheduled for the end of October.
@@ -60,10 +53,17 @@ The week before the hackathon, we'll begin connecting  balanced starter teams of
 Team membership is flexible, and participants are permitted to migrate teams, join multiple teams, or create their own teams. Attendees are encouraged to reach out to organizers early and often (direct message @dnilasor or post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF)) for assistance with team matching or if concerns or team-fit issues arise. 
 
 ### How will you select a winning team?
-For sponsored challenges, sponsors have the option to select a winning team(s). For those that don't choose that option and community challenges, a poll of Spinnaker expert volunteers from different companies will determine the winners. Additional community awards may also be recognized.
+For sponsored challenges, sponsors have the option to select a winning team(s). For those that don't choose that option and community challenges, a poll of Spinnaker and OSS expert volunteers from different companies will determine the winners. Additional community awards may also be recognized.
 
 ### Do I need to build something production-ready to participate?
 NO! A top goal of this event: build the community and give participants a chance to get to know each other. Your team isn't required to build something that’s fully working. If you get halfway through a project and it no longer makes sense, you will have likely learned a lot and made connections. Stay and hang out! While we're sure to come out with some useful features, fixes, or plugins, this is supposed to be fun. It does not need to be feature complete.
 
 ### Should we build our project as a Spinnaker plugin?
 Yes, if it makes sense! Read the [Plugin Users Guide](https://www.spinnaker.io/guides/user/plugin-users/) to learn more about how to use and build Spinnaker plugins. Folks in the [#sig-platforms](https://spinnakerteam.slack.com/archives/CPHARS3RA) channel and the @on-call-gardener can advise on which projects will work as plugins. More context is also available [here on the Spinnaker Community Blog](https://blog.spinnaker.io/spinnakers-extensibility-reaches-new-heights-with-plugins-645fd73f8d6a).
+
+### What is this and why do I care?
+This is quickstart documentation for the Spinnaker Gardening Days, a series of open-source Spinnaker hackathons open to anyone in the community, including newcomers. The third and latest Gardening Days will be held at our virtual Spinnaker Summit 10/10-11/12. The goal of this doc is help you get started participating.
+
+Right now, humans are more isolated than ever; however, we're coming together virtually like never before. The culture of dispersed collaboration at the foundation of open source seems more relevant than ever, as we must together rise to totally overwhelming and frightening global challenges. Spinnaker Gardening Days aims to shine a light of fun and hope into our community. We envision a future of great software delivery bringing us closer to the experiences that matter. 
+
+Let's solve together; you'll have fun, we promise!
