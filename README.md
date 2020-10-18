@@ -1,12 +1,7 @@
 # Gardening Days is coming to Spinnaker Summit 2020
 
-[Register here](https://events.linuxfoundation.org/spinnaker-summit/register/) to join project contributors October 19 - November 12 to learn and build at Spinnaker Summit. All contributions you make in the 4-week hack period, including project and plugin code, documentation, content, videos, issues [and more](https://spinnaker.io/community/gardening/what-to-hack/), add up to points. All contributors will receive prizes based on their point totals, so contribute when you can. When you [sign up](https://events.linuxfoundation.org/spinnaker-summit/register/), you'll enter the team matching process. Teams can choose to compete in [challenges](challenges.md) set by Armory, GitHub, AWS, and more. All teams that demo a project will be eligible for prize packages awarded to challenge-winning teams and runners-up in each challenge. 
-
-Elevate your impact with free compute from AWS, SIG projects, a global-friendly schedule, first-class documentation and training resources, and a friendly team of advocates and volunteers to greet and assist you. Everyone's welcome to automate the SDLC and extend the ecosystem with us!
-
-Learn more about event logistics, what we'll hack on, setting up your development environment, and more in the [Spinnaker Gardening Days](https://www.spinnaker.io/community/gardening/) pages on Spinnaker.io. Got questions that aren't answered here? Post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) on Spinnaker Slack.
+[Register here](https://events.linuxfoundation.org/spinnaker-summit/register/) to join project contributors October 19 - November 12 to learn and build at Spinnaker Summit. 
 ![Summit Gardening Days Hero](Summit-Gardening-Banner.png "Summit Gardening")
-
 ### [Getting Started](getting-started.md)
 ### [Schedule](schedule.md)
 ### [Projects, Ideas, and Teams](project-ideas.md)
@@ -16,6 +11,14 @@ Learn more about event logistics, what we'll hack on, setting up your developmen
 ### [Development Environments](development-environments.md)
 ### [Volunteering - Get involved!](expert-volunteers.md)
 ### [Sponsor a Gardening Days Challenge or Activity](https://go.armory.io/summit-gardening)
+
+All contributions you make in the 4-week hack period, including project and plugin code, documentation, content, videos, issues [and more](https://spinnaker.io/community/gardening/what-to-hack/), add up to points. All contributors will receive prizes based on their point totals, so contribute when you can. When you [sign up](https://events.linuxfoundation.org/spinnaker-summit/register/), you'll enter the team matching process. Teams can choose to compete in [challenges](challenges.md) set by Armory, GitHub, AWS, and more. All teams that demo a project will be eligible for prize packages awarded to challenge-winning teams and runners-up in each challenge. 
+
+Elevate your impact with free compute from AWS, SIG projects, a global-friendly schedule, first-class documentation and training resources, and a friendly team of advocates and volunteers to greet and assist you. Everyone's welcome to automate the SDLC and extend the ecosystem with us!
+
+Learn more about event logistics, what we'll hack on, setting up your development environment, and more in the [Spinnaker Gardening Days](https://www.spinnaker.io/community/gardening/) pages on Spinnaker.io. Got questions that aren't answered here? Post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) on Spinnaker Slack.
+
+
 
 -------------------------
 
