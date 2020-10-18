@@ -7,8 +7,12 @@ Follow these steps to engage in Spinnaker Gardening:
 1. Enter the Slack workspace and join the [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) channel
 1. Introduce yourself!
 1. To be added to the spinnaker-hackathon GitHub organization and the leaderboard after the event begins, request the check-in link in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF).
-1. Browse gardening team channels, which always begin with #gardening-team- to start collaborating on projects that interest you
-![Browse Team Channels](https://p-qKFvWn.b3.n0.cdn.getcloudapp.com/items/9ZujkE8z/Image%202020-07-18%20at%209.06.08%20PM.png?v=2af37bb659a71050fab1d8fda51e82a0|width=10)
 1. Need to get up to speed on Spinnaker to contribute? Check out our [training page](training.md).
-1. Need help getting started with an idea or getting unstuck? Reach out to an expert by mentioning @on-call-gardener in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) or your team channel. Don't be shy!
+1. Need help getting started with a project idea or getting unstuck on a technical issues? Reach out to an expert by mentioning @on-call-gardener in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) or your team channel. Don't be shy!
+1. Have other questions or need more assistance? Mention @gardening-admin in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) for assistance.
 1. Begin setting up your development environment. Check out our [development environments page](development-environments.md)
+1. Looking to join a team? Check out these suggested steps:
+- Check Spinnaker Slack to see if you have been added to a team channel, or received a direct message from a Gardening Admin. If you're in a team channel already, get the conversation going!
+- Create a SIG team by showing up at a [SIG meeting](https://github.com/spinnaker/governance) or joining the [Slack channel](http://join.spinnaker.io) of your favorite SIG (channel names begin with ```#sig-```) to propose and discuss a project. Talk about the SIGs' priorities and needs, and identify projects that could be scoped to be completed by mid-November. Reach out in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) or recruit from your company if you have ideas and need teammates.
+- Browse gardening team channels, which always begin with #gardening-team- to start collaborating on projects that interest you
+![Browse Team Channels](https://p-qKFvWn.b3.n0.cdn.getcloudapp.com/items/9ZujkE8z/Image%202020-07-18%20at%209.06.08%20PM.png?v=2af37bb659a71050fab1d8fda51e82a0|width=10)
