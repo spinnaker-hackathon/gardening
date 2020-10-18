@@ -22,7 +22,7 @@ Global Standup & Office Hours
 - October 29 9:00 AM PT
 
 Open Roadmap Planning
-- October27 10:00 AM PT
+- October 27 10:00 AM PT
 
 OSS SDLC Brunch & Learn: @BDougie of GitHub Actions
 - October 28 10:00 AM
