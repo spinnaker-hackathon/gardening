@@ -13,6 +13,9 @@ A list of Spinnaker project ideas organized into categories for your browsing pl
 ## GitHub and Actions Extensibility
 - [Add support for GitHub Actions CI integration](https://github.com/spinnaker-hackathon/github-actions)
 
+## Sumo Logic Extensibility
+- [Expand the Spinnaker App for Sumo Logic](https://github.com/spinnaker-hackathon/sumo-logic/blob/main/README.md) to provide automated software delivery performance insights based on Spinnaker deployment acticity
+
 ## Content Projects
 - Create and record a Spinnaker Twitch stream that live-demonstrates a small process or workflow
   - [Here's an example from the Tekton community](https://www.youtube.com/watch?v=LTRE8a22tio)
@@ -39,6 +42,7 @@ These may or may not be implementable as plugins
 ## Bugfixes
 Don't forget to check the list of [beginner-friendly issues](https://github.com/spinnaker/spinnaker/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22) for good bugfixes to start with
 - [Fix invalid YAML deletion from Manifest Source field upon save](https://github.com/spinnaker/spinnaker/issues/5357)
+
 ## Service Improvements
 - Add ingress URLs to the Infrastructure tab
   - Service URLs are shown in the load balancers area, but not ingress URLs. It would be really useful for end users to have the ingress right there to access the deployed app if needed, since many web apps don't use the load balancer URL, but the ingress instead.
