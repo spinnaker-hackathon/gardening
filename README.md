@@ -7,12 +7,11 @@
 ### [Schedule](schedule.md)
 ### [Projects, Ideas, and Teams](project-ideas.md)
 ### [Judging and Points Eligibility & Tracking](points.md)
-### [Training](training.md)
 ### [Challenges](challenges.md)
 ### [Prizes](prizes.md)
 ### [Development Environments](development-environments.md)
+### [Training](training.md)
 ### [Volunteering - Get involved!](expert-volunteers.md)
-### [Sponsor a Gardening Days Challenge or Activity](https://go.armory.io/summit-gardening)
 
 All contributions you make in the 4-week hack period, including project and plugin code, documentation, content, videos, issues [and more](https://spinnaker.io/community/gardening/what-to-hack/), add up to points. All contributors will receive prizes based on their point totals, so contribute when you can. When you [sign up](https://events.linuxfoundation.org/spinnaker-summit/register/), you'll enter the team matching process. Teams can choose to compete in [challenges](challenges.md) set by Armory, GitHub, AWS, and more. All teams that demo a project will be eligible for prize packages awarded to challenge-winning teams and runners-up in each challenge. 
 
