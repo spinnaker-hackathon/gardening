@@ -20,7 +20,8 @@ Create and share video, blog, and social content for the Spinnaker community. Pr
 
 ### GitHub Challenge
 Solve for GitHub, Spinnaker, and Open Source, guided by [our expert suggestions](https://github.com/spinnaker-hackathon/gardening/blob/master/challenges.md#the-github-challenge).
-- Winner's prize package = Team receives $500, divided among teammates
+- First prize package = Team receives $500, divided among teammates
+- Second prize package = Team receives $300, divided among teammates
 
 ### Sumo Logic Challenge
 - Winner's prize package = Team receives $500, divided among teammates
