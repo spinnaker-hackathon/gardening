@@ -15,7 +15,7 @@ We will reward active members of winning teams according to the categories below
 ### GitHub Actions Challenge
 - Winner's prize package = Team receives $500, divided among teammates
 
-### SumoLogic Challenge
+### Sumo Logic Challenge
 - Winner's prize package = Team receives $500, divided among teammates
 
 ### New Relic Challenge
