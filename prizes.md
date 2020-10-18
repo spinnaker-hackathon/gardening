@@ -1,28 +1,48 @@
 # Prizes!
 
-_Stay tuned for updates on prizes for Summit Gardening Days 10/19-11/12. Happen to work at a company that cares a lot about software delivery? Why not ask them to sponsor prizes and challenges at Gardening Days? DM @dnilasor in [Spinnaker Slack](http://join.spinnaker.io) to learn more_
+Prizing scheme for Summit Gardening Days. Drumroll please...
 
-Prizing scheme for July Gardening Days. Drumroll please...
+## Team Prize Packages
 
-### Individual Prize Tiers
-Here's what you'll get to play with if your points total crosses these thresholds. You'll earn one point every time you complete an item on [this list](https://spinnaker.io/community/gardening/what-to-hack/). Points will be [tracked here](https://docs.google.com/spreadsheets/d/1kt9MJexQTPb1AuC5mQXZBX-NBZf5XsSwBBpy3WJ_fJk/edit?usp=sharing) on the Spinnaker Gardening Days Contributors tab and updated in batches throughout the week. We'll ship your prizes along with your Gardening tshirt. Be patient; shipping is bananaballs right now!
+We will reward active members of winning teams according to the categories below. Eligible projects must be submitted in each category listed in order for prizes to be awarded. _All prizes can be substituted with charitable donations upon request. Hackathon organizers will resolve any eligibility disputes that arise according to our discretion. We promise to fulfill the rewards listed below, but reserve the right to award additional prizes if overwhelmed with eligible submissions ;)_
 
-#### Hacker = 15 points
+### Spinnaker Challenge
+- First prize package = Team receives $1000, divided among teammates
+- Second prize package = Team receives $750, divided among teammates
+- Third prize package = Team receives $500, divided among teammates
+- Honorable mention prize package = Team receives $300, divided among teammates
+
+### GitHub Actions Challenge
+- Winner's prize package = Team receives $300, divided among teammates
+
+### SumoLogic Challenge
+- Winner's prize package = Team receives $300, divided among teammates
+
+### New Relic Challenge
+- Winner's prize package = Team receives $300, divided among teammates
+
+### AWS Challenge
+- Winner's prize package = Team receives $300, divided among teammates
+
+## Individual Prize Tiers
+You'll receive something fun to play with if your points total crosses these thresholds. You'll earn one point every time you complete an item on [this list](https://spinnaker.io/community/gardening/what-to-hack/), and your contributions to team projects count. Points will be [tracked here](https://docs.google.com/spreadsheets/d/1kt9MJexQTPb1AuC5mQXZBX-NBZf5XsSwBBpy3WJ_fJk/edit?usp=sharing) on the Spinnaker Gardening Days Contributors tab and updated in batches throughout the week. _FYI: Gaming the points system won't work and will result in disqualification, so please don't try, just have fun with us!_ We'll ship your prizes along with your Gardening Tshirt. Be patient; shipping is bananaballs right now! 
+
+#### Hedgehog Hacker = 25 points
+Every Gardening participant who earns 25 points will receive a [crystal-growing hedgehog](https://youtu.be/W2rK8KdrDkY). Just, because.
+
+#### Hacker = 35 points
 Earn a [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) for all your projects.  The on-board wireless is a game changer!
 
-#### Hedgehog Hacker = 30 points
-Earn a [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) AND a [crystal-growing hedgehog](https://youtu.be/W2rK8KdrDkY). Just, because.
+#### Toy Hacker = 60 points
+Earn a [Sphero Mini](https://sphero.com/products/sphero-mini) programmable ball, back by popular demand from kiddos of participants in Gardening Days :)
 
-#### Toy Hacker = 50 points
-Earn a [Sphero Mini](https://sphero.com/products/sphero-mini) programmable ball, back by popular demand from kiddos of participants in the last Gardening Days!
+#### Drone Hacker = 100 points
+Earn a [Tello](https://store.dji.com/product/tello?vid=38421), the "most fun drone ever." It helps users learn about drones with coding education.
 
-#### Robot Hacker = 70 points
-Earn a [Cozmo](https://anki.com/en-us/cozmo.html), the Twitchable robot. Includes an implicit contract that you will use it to make Spinnaker cuter on social media. Kidding...kinda.
-
-#### Switch Hacker = 100 points
-Earn a [Nintendo Switch Lite](https://www.nintendo.com/switch/lite/), coveted COVID gaming companion, to unlock portable multiplayer fun.
-
-### Team Prize Packages
-In addition to the individual prizes, we will reward active members of winning and runner-up teams with Amazon gift cards. 
-- First prize = Team receives $150, divided among teammates
-- Runner-up = Team receives $100, divided among teammates
+#### Switch Hacker = 150 points
+Earn a [Nintendo Switch Lite](https://www.nintendo.com/switch/lite/), coveted COVID gaming companion, to unlock portable multiplayer fun. OR SWITCH IT UP and choose an alternative prize:
+ - [Smart Lighting Panel Rhythm Edition](https://www.uncommongoods.com/product/smart-lighting-panels#430390000002)
+ - [Smart Garden 9](https://www.clickandgrow.com/products/the-smart-garden-9)
+ - Bose Audio Sunglasses, [Alto](https://www.bose.com/en_us/products/frames.html) or [Rondo](https://www.bose.com/en_us/products/frames/bose-frames-rondo.html#v=bose_frames_rondo_black_us) style
+ 
+Don't forget to show us some love on social media while you are pining for or receiving your prizes. Use the hashtag...wait, what's our hashtag again? Stay tuned.
