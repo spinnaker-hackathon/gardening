@@ -1,4 +1,4 @@
-See the complete Summit Gardening Days schedule of events, in your time zone, on the [schedule page](https://events.linuxfoundation.org/spinnaker-summit/program/schedule/) of the Linux Foundation's Spinnaker Summit Website. 
+You will soon see the complete Summit Gardening Days schedule of events, in your time zone, on the [schedule page](https://events.linuxfoundation.org/spinnaker-summit/program/schedule/) of the Linux Foundation's Spinnaker Summit Website. 
 
 For your reference, we'll also share planned Gardening events and checkpoints here. [Follow us on Twitter](https://twitter.com/spinnakerio) or join the [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) channel for reminders. Stay tuned for schedule additions. All times are in US Pacific Time. 
 
