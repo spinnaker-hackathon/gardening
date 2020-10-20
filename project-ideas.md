@@ -43,6 +43,10 @@ These may or may not be implementable as plugins
 - [Add support for AWS CloudWatch metrics in Kayenta](https://github.com/spinnaker/spinnaker/issues/5888)
 - [Add support for AppDynamics metrics in Kayenta](https://github.com/spinnaker/kayenta/issues/770)
 
+## Security
+- Provide a GPG key for researchers to securely report the vulnerability
+- Create a security announcement mailing list that will automatically receive an email when a CVE is published
+
 ## Bugfixes
 Don't forget to check the list of [beginner-friendly issues](https://github.com/spinnaker/spinnaker/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22) for good bugfixes to start with
 - [Fix invalid YAML deletion from Manifest Source field upon save](https://github.com/spinnaker/spinnaker/issues/5357)
