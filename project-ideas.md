@@ -3,9 +3,10 @@
 A list of Spinnaker project ideas organized into categories for your browsing pleasure. If you find an idea you're interested in and want to learn more, feel free to visit one of the associated team channels listed below, or post in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF)
 
 ## Amazon ECS
+Visit [#gardening-team-ecs](https://spinnakerteam.slack.com/archives/C017W527480) to seek collaborators and check progress
 - [Adding capacity provider APIs or UI to Spinnaker](https://github.com/spinnaker/spinnaker/issues/5400#issuecomment-657258812)
-  - Visit [#gardening-team-ecs](https://spinnakerteam.slack.com/archives/C017W527480) to seek collaborators and check progress
 - [Adding a service metrics API/UI to Spinnaker](https://github.com/spinnaker/spinnaker/issues/5605#issuecomment-656920886)
+- [Surface the availability zone of an ECS task in the instance details pane](https://github.com/spinnaker/spinnaker/issues/6116)
 
 ## Spin CLI
 - [Extending project functionality for the Spin CLI](https://trello.com/b/TZEErakm/extending-project-functionality-for-the-spin-cli)
