@@ -6,7 +6,7 @@
 1. [Join Spinnaker Slack](http://join.spinnaker.io).
 1. [Register for the hackathon](https://go.armory.io/gardening) - you need to provide your Spinnaker Slack display name to register.
 1. Enter the Slack workspace and join the [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) channel. Introduce yourself!
-1. [Check in to gardening](go.armory.io/gardener-checkin) to be added to the [leaderboard](https://go.armory.io/contributors).
+1. [Check in to gardening](https://go.armory.io/gardener-checkin) to be added to the [leaderboard](https://go.armory.io/contributors).
 1. Check your email for an invitation to our event area on [Qiqo Chat](https://go.armory.io/summit-garden), where you can attend Kickoff, Global Standup & Office Hours, OSS SDLC Brunch & Learn, and all [Gardening Days events](https://events.linuxfoundation.org/spinnaker-summit/program/schedule/).
 
 ### Getting Engaged
