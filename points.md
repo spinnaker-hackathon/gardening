@@ -61,7 +61,7 @@ You have multiple opportunities to receive points for content contributions such
 - Contributor interviews
 
 These contributions are eligible for points as [GitHub event contributions](#github-event-contributions) if you initiate the content or scripts 
-as respositories in the [spinnaker-hackathon](https://github.com/spinnaker-hackathon) organization. 
+as respositories in the [spinnaker-hackathon](https://github.com/spinnaker-hackathon) organization, and then again as [Content contributions](#slack-tracking-for-content-contributions) once you post or publish them and follow the steps to redeem your points!
 
 Besides those listed above, content contributions include community help responses, such as __stackoverflow answers__ and __spinnaker slack answers__. While these shouldn't be added to a repository and are not eligible as GitHub event contributions, they will earn points through the [Slack tracking system for content contributions](#slack-tracking-for-content-contributions).
 
