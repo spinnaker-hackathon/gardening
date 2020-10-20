@@ -4,7 +4,7 @@ Follow these gardening guidelines to be eligible for prizes all month long, and 
 - All participants earn points, redeemable for prizes, for each individual contribution made between 12 AM PDT October 19th through 9 AM PDT November 12th. 
 - Review the list of [eligible contributions](what-to-hack.md) to see what’s eligible&mdash;pull requests are most welcome, but explore other ways to add value.
 - Attendees must [register for Summit Gardening Days](https://events.linuxfoundation.org/spinnaker-summit/register/) to be eligible to earn prizes.
-- Attendees must check in to the event to be eligible to earn prizes. You'll find the check in link in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF), and you're welcome to mention @gardening-admin there to request it.
+- Attendees must [check in](https://go.armory.io/gardener-checkin) to be eligible to earn prizes and appear on the [leaderboard](https://go.armory.io/contributors).
 - Teams must demo their project at the demo session on November 12 at 9:00 AM Pacific, or add a demo post to [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) before 9:30 AM Pacific on November 12, to be eligible for a team prize package.
 - Match advisors will use your answers to the registration questions to place you on a team. During kickoff week or after you've registered, we will notify you of your team placement to confirm participation, and provide Slack introductions to teammates. 
 - Teams can mention @on-call-gardener and @gardening-admin in Slack for help in choosing a project.
@@ -18,8 +18,7 @@ We will award divisible team [prize packages](#prizes) to winning teams at the d
 
 ## Points Tracking
 
-Gardening organizers will track and tally points based on GitHub activity in eligible organizations, and other eligible content contributions as tracked 
-in the [spinnaker-hackathon](https://github.com/spinnaker-hackathon) organization and in the [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) channel on [Spinnaker Slack](http://join.spinnaker.io).
+Visit the [Leaderboard](https://go.armory.io/contributors) to track your points! Gardening organizers will track and tally points based on GitHub activity in eligible organizations, and other eligible content contributions as tracked in the [spinnaker-hackathon](https://github.com/spinnaker-hackathon) organization and in the [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) channel on [Spinnaker Slack](http://join.spinnaker.io).
 
 ### GitHub Event Contributions
 
