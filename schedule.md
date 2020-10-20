@@ -1,8 +1,14 @@
-You will soon see the complete Summit Gardening Days schedule of events, in your time zone, on the [schedule page](https://events.linuxfoundation.org/spinnaker-summit/program/schedule/) of the Linux Foundation's Spinnaker Summit Website. 
+# Summit Gardening Schedule
+
+## [Complete Summit Gardening Days schedule of events, in your time zone]( https://events.linuxfoundation.org/spinnaker-summit/program/schedule/ )
+
+Look for the bright yellow sessions. Summit Gardening Days is part of [Spinnaker Summit](https://www.spinnakersummit.com). 
+
+
 
 For your reference, we'll also share planned Gardening events and checkpoints here. [Follow us on Twitter](https://twitter.com/spinnakerio) or join the [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) channel for reminders. Stay tuned for schedule additions. All times are in US Pacific Time. 
 
-## Week 1
+### Week 1
 Global Kickoff Standup & Orientation (Start here!)
 - October 19 11:00 PM PT
 - October 20 9:00 AM PT
@@ -14,7 +20,7 @@ Global Standup & Office Hours
 Spinnaker Conformance Certification Program Kickoff
 - October 21 10:00 AM PT
 
-## Week 2
+### Week 2
 Global Standup & Office Hours
 - October 26 11:00 PM PT
 - October 27 9:00 AM PT
@@ -27,7 +33,7 @@ Open Roadmap Planning
 OSS SDLC Brunch & Learn: @BDougie of GitHub Actions
 - October 28 10:00 AM
 
-## Week 3
+### Week 3
 Global Standup & Office Hours
 - November 2 11:00 PM PT
 - November 4 11:00 PM PT
@@ -36,7 +42,7 @@ Global Standup & Office Hours
 OSS SDLC Brunch & Learn: @TracyMiranda of the Continuous Delivery Foundation
 - November 4 10:00 AM PT
 
-## Week 4
+### Week 4
 Global Standup & Office Hours
 - November 9 11:00 PM PT
 - November 10 9:00 AM PT
