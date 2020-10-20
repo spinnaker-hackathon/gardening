@@ -13,7 +13,7 @@
 1. Check out the [Projects, Ideas, and Teams](project-ideas.md) page for a current listing of all the ideas and projects on the table, and the teams that have discussed or begun working on them.
 1. Need to get up to speed on Spinnaker to contribute? Check out our [training page](training.md).
 1. Need help getting started with a project idea or getting unstuck on a technical issue? Reach out to an expert by mentioning @on-call-gardener in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) or your team channel. Need other assistance? Mention @gardening-admin in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF) for assistance. Don't be shy!
-1. Begin setting up your development environment. Check out our [development environments page](development-environments.md).
+1. Begin setting up your development environment. If you would like to use the free AWS compute available in our managed EKS cluster, reference the [New Spin Contribution Walkthrough Session](https://spinnaker.io/community/gardening/spin-contrib/) guide. You can check out our [development environments page](development-environments.md) for alternative approaches such as Minnaker.
 1. Looking to join a team? Check out these suggested steps:
 - Check Spinnaker Slack to see if you have been added to a team channel, or received a direct message from a Gardening Admin. If you're in a team channel already, get the conversation going!
 - Browse team areas in [Qiqo Chat](https://go.armory.io/summit-garden) to join a team meeting or document.
