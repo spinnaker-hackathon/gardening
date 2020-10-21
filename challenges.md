@@ -31,6 +31,7 @@ Let these 6 stories, scoped by GitHub, Armory, and community engineers, inspire 
 Our friends on the AWS ECS team have scoped a few ECS stories:
 - [Adding capacity provider APIs or UI to Spinnaker](https://github.com/spinnaker/spinnaker/issues/5400#issuecomment-657258812)
 - [Adding a service metrics API/UI to Spinnaker](https://github.com/spinnaker/spinnaker/issues/5605#issuecomment-656920886)
+- [Surface the availability zone of an ECS task in the instance details pane](https://github.com/spinnaker/spinnaker/issues/6116)
 Stay tuned for more AWS project stories to inspire you!
   
 _Visit the [What to Hack](https://spinnaker.io/community/gardening/what-to-hack/) page to learn all the ways to contribute and earn points in Spinnaker Gardening days._
