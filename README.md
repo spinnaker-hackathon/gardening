@@ -32,7 +32,7 @@ Time to double-dip: All contributions you make in a team project count as indivi
 
 Here's the eligibility breakdown for our two buckets of prizes:
 
-- **Individual Prizes:** When you [register](https://go.armory.io/gardening), all contributions you make during the Gardening Days (October 19 - November 12) count towards your [contributor points total](https://go.armory.io/contributors). Earn points = Earn prizes. [Check out the full list of qualified contributions](https://spinnaker.io/community/gardening/what-to-hack/), including:
+- **Individual Prizes:** When you [register](https://go.armory.io/gardener-checkin), all contributions you make during the Gardening Days (October 19 - November 12) count towards your [contributor points total](https://go.armory.io/contributors). Earn points = Earn prizes. [Check out the full list of qualified contributions](https://spinnaker.io/community/gardening/what-to-hack/), including:
   - GitHub activity and contributions
   - Spinnaker tips or recent news items shared in OSS Slack
   - Codelab and training video run-throughs
