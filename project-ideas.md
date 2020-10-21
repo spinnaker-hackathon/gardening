@@ -73,7 +73,8 @@ Visit [#sig-ui](https://spinnakerteam.slack.com/archives/CH3FMKA3U) to seek coll
   - Visit [#contributor-game-app](https://spinnakerteam.slack.com/archives/C019EV8HA7Q) to collaborate on a Contributor Experience App for Spinnaker and the CDF. Check out our [work in progress](https://github.com/ExitoLab/spinnaker_gamification_app).
   
 ## Documenation
-- Document the [Circle CI integration](https://circleci.com/developer/orbs/orb/circleci/spinnaker) in spinnaker.io docs 
+- Document the [Circle CI integration](https://circleci.com/developer/orbs/orb/circleci/spinnaker) in spinnaker.io docs
+- Improve documentation of the [Azure Active Directory setup process](https://spinnaker.io/setup/security/authentication/oauth/azure/) with visuals or provisioning tutorial
 
 
 
