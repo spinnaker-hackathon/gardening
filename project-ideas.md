@@ -75,6 +75,7 @@ Visit [#sig-ui](https://spinnakerteam.slack.com/archives/CH3FMKA3U) to seek coll
 ## Documenation
 - Document the [Circle CI integration](https://circleci.com/developer/orbs/orb/circleci/spinnaker) in spinnaker.io docs
 - Improve documentation of the [Azure Active Directory setup process](https://spinnaker.io/setup/security/authentication/oauth/azure/) with visuals or provisioning tutorial
+- Document the architecture and service specs of Igor and other core Spinnaker services. Reach out to [#sig-documentation](https://spinnakerteam.slack.com/archives/CMPS49682) about the appropriate home for these docs or start them in the [spinnaker-hackathon](https://github.com/spinnaker-hackathon) org.
 
 
 
