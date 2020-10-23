@@ -1,5 +1,6 @@
 # Points Eligibility, Tracking & Logistics
 
+## General Guidelines
 Follow these gardening guidelines to be eligible for [prizes](prizes.md) all month long, and set us up for maximum community impact. 
 - All participants earn points, redeemable for [prizes](prizes.md), for each individual contribution made between 12 AM PDT October 19th through 9 AM PDT November 12th. 
 - Review the list of [eligible contributions](project-ideas.md) to see what’s eligible&mdash;pull requests are most welcome, but explore other ways to add value.
