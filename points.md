@@ -41,13 +41,12 @@ to be counted, mention @gardening-admin in [#gardening-general](https://spinnake
 ### Slack Tracking for Content Contributions 
 
 To submit content for points eligibility, do the following:
-1. If possible, initiate it in a respository in the [spinnaker-hackathon](https://github.com/spinnaker-hackathon) organization (see [Extra Points Opportunity](#extra-points-opportunity-for-content) below). 
+1. If possible, initiate your content in a respository in the [spinnaker-hackathon](https://github.com/spinnaker-hackathon) organization (see [Extra Points Opportunity](#extra-points-opportunity-for-content) below). 
 2. Once content is published in its public destination, take a clear screenshot of it.
 3. Post a message about your contribution in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF). Your message should include:
     - Screenshot
-    - Your GitHub username
     - A brief description of the content  
-4. After you post your message, add a :goldcoin: emoji reaction to your message. _Your points will not be counted unless you add this reaction_. If needed, [learn how to use reactions in Slack](https://slack.com/help/articles/206870317-Use-emoji-reactions). 
+4. After you post your message, add a `:burn-book:` emoji reaction to your message. _Your points will not be counted unless you add this reaction_. If needed, [learn how to use reactions in Slack](https://slack.com/help/articles/206870317-Use-emoji-reactions). 
 
 #### Extra Points Opportunity for Content
 
@@ -64,7 +63,11 @@ You have multiple opportunities to receive points for content contributions such
 These contributions are eligible for points as [GitHub event contributions](#github-event-contributions) if you initiate the content or scripts 
 as respositories in the [spinnaker-hackathon](https://github.com/spinnaker-hackathon) organization, and then __again__ as [Content contributions](#slack-tracking-for-content-contributions) once you post or publish them and follow the steps to redeem your points!
 
-Besides those listed above, content contributions include community help responses, such as __stackoverflow answers__ and __spinnaker slack answers__. While these shouldn't be added to a repository and are not eligible as GitHub event contributions, they will earn points through the [Slack tracking system for content contributions](#slack-tracking-for-content-contributions). See a list of contribution types on the [What to Hack](https://spinnaker.io/community/gardening/what-to-hack/) page. 
+Besides those listed above, content contributions include community help responses, such as __stackoverflow answers__ and __spinnaker slack answers__. While these shouldn't be added to a repository and are not eligible as GitHub event contributions, they will earn points through the [Slack tracking system for content contributions](#slack-tracking-for-content-contributions). See a list of contribution types on the [What to Hack](https://spinnaker.io/community/gardening/what-to-hack/) page.
+
+### Slack Tracking for Bonus Points
+
+Engaging in Spinnaker Slack, whether in [#gardening-general](https://spinnakerteam.slack.com/archives/CV4A90DPF), team channels, or SIG channels is worth points! Gardening staff react with the `:gold-coin:` emoji to reward helpful, fun and positive engagement in Slack. Feel free to reward yourselves and others for these messages with coins! Bonus Submissions are tracked [here](https://docs.google.com/spreadsheets/d/1kt9MJexQTPb1AuC5mQXZBX-NBZf5XsSwBBpy3WJ_fJk/edit#gid=602827404) on the leaderboard. Gardening staff will review submissions before announcing final points tallies and awarding prizes.
 
 ## Leaderboard
 
